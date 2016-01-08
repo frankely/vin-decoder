@@ -1,0 +1,29 @@
+{
+  "name": "vin-decoder",
+  "version": "1.0.0",
+  "description": "Vehicle Identification Number Decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankelydiaz/vin-decoder.git"
+  },
+  "keywords": [
+    "VIN",
+    "Decoder",
+    "Vehicle",
+    "Decoder"
+  ],
+  "author": "Frankely Diaz <diazfrankely@gmail.com> (http://frankelydiaz.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankelydiaz/vin-decoder/issues"
+  },
+  "homepage": "https://github.com/frankelydiaz/vin-decoder#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
