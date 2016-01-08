@@ -4,8 +4,7 @@
   "description": "Vehicle Identification Number Decoder",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/mocha/bin/mocha",
-    "autotest": "supervisor -q -n exit -x mocha -- -b"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -25,7 +24,6 @@
   "homepage": "https://github.com/frankelydiaz/vin-decoder#readme",
   "devDependencies": {
     "chai": "^3.4.1",
-    "mocha": "^2.3.4",
-    "supervisor": "^0.9.1"
+    "mocha": "^2.3.4"
   }
 }
