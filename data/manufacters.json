@@ -1,4210 +1,4210 @@
 [
   {
     "code": "4TL",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JMG",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "3GE",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "5TP",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "5F5",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "5LH",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "1GP",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "KL9",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "6AB",
-    "manufacter": "MAN Australia"
+    "name": "MAN Australia"
   },
   {
     "code": "JMV",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "JM5",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "JFL",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "5FX",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "1HK",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "JAL",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "MA1",
-    "manufacter": "Mahindra"
+    "name": "Mahindra"
   },
   {
     "code": "1NT",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "2M7",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JSC",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "VF6",
-    "manufacter": "Renault (Trucks & Buses)"
+    "name": "Renault (Trucks & Buses)"
   },
   {
     "code": "JM1",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "1N2",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "2TK",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "1LZ",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "2MC",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JMM",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "2GZ",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "JMT",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "3NM",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "ZFC",
-    "manufacter": "Fiat V.I."
+    "name": "Fiat V.I."
   },
   {
     "code": "4ML",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "5FL",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "1NM",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "WV2",
-    "manufacter": "Volkswagen Bus/Van"
+    "name": "Volkswagen Bus/Van"
   },
   {
     "code": "5FM",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "JSV",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JM6",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "5L9",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "1N6",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "3P3",
-    "manufacter": "Plymouth Mexico"
+    "name": "Plymouth Mexico"
   },
   {
     "code": "JAT",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "1GX",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "JNZ",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "TMT",
-    "manufacter": "Tatra (Czech Republic)"
+    "name": "Tatra (Czech Republic)"
   },
   {
     "code": "2GD",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "4T5",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "1FA",
-    "manufacter": "Ford Motor Company"
+    "name": "Ford Motor Company"
   },
   {
     "code": "JHM",
-    "manufacter": "Honda"
+    "name": "Honda"
   },
   {
     "code": "4TZ",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JNJ",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "KPA",
-    "manufacter": "Ssangyong"
+    "name": "Ssangyong"
   },
   {
     "code": "1H7",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "JT0",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "1GV",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "4SM",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JAH",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "4FA",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "JTE",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4TU",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "2G6",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "4MF",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "1FC",
-    "manufacter": "Ford Motor Company"
+    "name": "Ford Motor Company"
   },
   {
     "code": "4ST",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JAA",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "1H4",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "4S7",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JTD",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JMB",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "4SR",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "2GK",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "5FB",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "5LV",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "2M1",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4SB",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "4MK",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "2TR",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "LVS",
-    "manufacter": "Ford Chang An"
+    "name": "Ford Chang An"
   },
   {
     "code": "JN3",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "1L8",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "4TH",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "3GK",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "JKY",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "1HR",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "3GR",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "JAW",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "4US",
-    "manufacter": "BMW USA"
+    "name": "BMW USA"
   },
   {
     "code": "1HT",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "4TX",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": 935,
-    "manufacter": "Citroën Brazil"
+    "name": "Citroën Brazil"
   },
   {
     "code": "3G4",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "4F7",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "2G1",
-    "manufacter": "Chevrolet Canada"
+    "name": "Chevrolet Canada"
   },
   {
     "code": "JS2",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "3G9",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "3NL",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "JSR",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "1LL",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "JA7",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "1HJ",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "KLE",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "JKU",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "4SK",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JF6",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "3HH",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "8AJ",
-    "manufacter": "Toyota Argentina"
+    "name": "Toyota Argentina"
   },
   {
     "code": "LZG",
-    "manufacter": "Shaanxi Automobile Group"
+    "name": "Shaanxi Automobile Group"
   },
   {
     "code": "2GC",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "5TN",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "JS3",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "WDB",
-    "manufacter": "Mercedes-Benz"
+    "name": "Mercedes-Benz"
   },
   {
     "code": "3N0",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "W0L",
-    "manufacter": "Opel"
+    "name": "Opel"
   },
   {
     "code": "MMM",
-    "manufacter": "Chevrolet Thailand"
+    "name": "Chevrolet Thailand"
   },
   {
     "code": "5LT",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "1G1",
-    "manufacter": "Chevrolet USA"
+    "name": "Chevrolet USA"
   },
   {
     "code": "4SC",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JKT",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "L56",
-    "manufacter": "Renault Samsung"
+    "name": "Renault Samsung"
   },
   {
     "code": "4T3",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "2MT",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "LZY",
-    "manufacter": "Yutong Zhengzhou"
+    "name": "Yutong Zhengzhou"
   },
   {
     "code": "JKR",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "VF1",
-    "manufacter": "Renault"
+    "name": "Renault"
   },
   {
     "code": "SCE",
-    "manufacter": "DeLorean Motor Cars N. Ireland (UK)"
+    "name": "DeLorean Motor Cars N. Ireland (UK)"
   },
   {
     "code": "JM3",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "4T4",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JSH",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "4FU",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "5T4",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "5L8",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "2TL",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "JKL",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "4F2",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "JSN",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JF9",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "3HW",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "1NF",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "3FE",
-    "manufacter": "Ford Motor Company Mexico"
+    "name": "Ford Motor Company Mexico"
   },
   {
     "code": "UU1",
-    "manufacter": "Renault Dacia"
+    "name": "Renault Dacia"
   },
   {
     "code": "1M2",
-    "manufacter": "Mack Truck USA"
+    "name": "Mack Truck USA"
   },
   {
     "code": "1NV",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "6H8",
-    "manufacter": "General Motors-Holden (pre Nov 2002)"
+    "name": "General Motors-Holden (pre Nov 2002)"
   },
   {
     "code": "3HG",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "JND",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "3GT",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "3H3",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "JAX",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "JNA",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "KL3",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "VNE",
-    "manufacter": "Irisbus (France)"
+    "name": "Irisbus (France)"
   },
   {
     "code": "1N5",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "3GC",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "WF0",
-    "manufacter": "Ford Germany"
+    "name": "Ford Germany"
   },
   {
     "code": "3HN",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "4SA",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JN8",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "4V4",
-    "manufacter": "Volvo"
+    "name": "Volvo"
   },
   {
     "code": "2GW",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "4FC",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "AAV",
-    "manufacter": "Volkswagen South Africa"
+    "name": "Volkswagen South Africa"
   },
   {
     "code": "JT3",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JAS",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "4FY",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "4TE",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JN2",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "3N1",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "1ME",
-    "manufacter": "Mercury USA"
+    "name": "Mercury USA"
   },
   {
     "code": "3HV",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "KNA",
-    "manufacter": "Kia"
+    "name": "Kia"
   },
   {
     "code": "9BF",
-    "manufacter": "Ford Motor Company Brazil"
+    "name": "Ford Motor Company Brazil"
   },
   {
     "code": "2TD",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "JK6",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "4SS",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JAB",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "JNT",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "YS3",
-    "manufacter": "Saab"
+    "name": "Saab"
   },
   {
     "code": "KLL",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "2WL",
-    "manufacter": "Western Star"
+    "name": "Western Star"
   },
   {
     "code": "1HG",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "3GH",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "8AG",
-    "manufacter": "Chevrolet Argentina"
+    "name": "Chevrolet Argentina"
   },
   {
     "code": "2MF",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "1YV",
-    "manufacter": "Mazda USA (AutoAlliance International)"
+    "name": "Mazda USA (AutoAlliance International)"
   },
   {
     "code": "2TW",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "JNY",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "1LM",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "5TY",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "JSM",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "3NU",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "5TC",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "5T1",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "4S1",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "1LS",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "2FA",
-    "manufacter": "Ford Motor Company Canada"
+    "name": "Ford Motor Company Canada"
   },
   {
     "code": "JM4",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "5TD",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "5FV",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "JAP",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "JTY",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "3GY",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "5LD",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "2TJ",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "8AD",
-    "manufacter": "Peugeot Argentina"
+    "name": "Peugeot Argentina"
   },
   {
     "code": "4SZ",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JF1",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "JNB",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "2GP",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "JSB",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JTB",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "TDM",
-    "manufacter": "QUANTYA Swiss Electric Movement (Switzerland)"
+    "name": "QUANTYA Swiss Electric Movement (Switzerland)"
   },
   {
     "code": "4MP",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JAD",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "4T8",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JN5",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "5T9",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "1GJ",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "3GU",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "JKC",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "JK1",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "4FB",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "JAU",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "6G1",
-    "manufacter": "General Motors-Holden (post Nov 2002)"
+    "name": "General Motors-Holden (post Nov 2002)"
   },
   {
     "code": "JMD",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "3GX",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "VF3",
-    "manufacter": "Peugeot"
+    "name": "Peugeot"
   },
   {
     "code": "ZAM",
-    "manufacter": "Maserati Biturbo"
+    "name": "Maserati Biturbo"
   },
   {
     "code": "2GL",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "1D3",
-    "manufacter": "Dodge"
+    "name": "Dodge"
   },
   {
     "code": "1XP",
-    "manufacter": "Peterbilt USA"
+    "name": "Peterbilt USA"
   },
   {
     "code": "3HX",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "3GF",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "TRU",
-    "manufacter": "Audi Hungary"
+    "name": "Audi Hungary"
   },
   {
     "code": "5LS",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "2MM",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JST",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "2MA",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "TSM",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "1H1",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "2GN",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "3GL",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "1HW",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "4F4",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "2GH",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "3G3",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "4M6",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "1N3",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "JA8",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "JAE",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "NM4",
-    "manufacter": "Tofas Turk"
+    "name": "Tofas Turk"
   },
   {
     "code": "JFG",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "KNC",
-    "manufacter": "Kia"
+    "name": "Kia"
   },
   {
     "code": "3NG",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "1HA",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "1GW",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "JM9",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "3HE",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "1NK",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "1L2",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "2M3",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "5L5",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "JTA",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4M8",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "2C3",
-    "manufacter": "Chrysler Canada"
+    "name": "Chrysler Canada"
   },
   {
     "code": "XL9",
-    "manufacter": "Spyker"
+    "name": "Spyker"
   },
   {
     "code": "JAR",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "2TT",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "1NA",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "4SN",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "3D3",
-    "manufacter": "Dodge Mexico"
+    "name": "Dodge Mexico"
   },
   {
     "code": "2MN",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4M4",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4TB",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4M1",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JFF",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "2T5",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "YS2",
-    "manufacter": "Scania AB"
+    "name": "Scania AB"
   },
   {
     "code": "5T5",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "PE3",
-    "manufacter": "Mazda Phillipines"
+    "name": "Mazda Phillipines"
   },
   {
     "code": "2WK",
-    "manufacter": "Western Star"
+    "name": "Western Star"
   },
   {
     "code": "5TR",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "JS0",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JS1",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JS8",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "5LW",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "JNC",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "4F3",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "1P3",
-    "manufacter": "Plymouth USA"
+    "name": "Plymouth USA"
   },
   {
     "code": "4MJ",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "3FA",
-    "manufacter": "Ford Motor Company Mexico"
+    "name": "Ford Motor Company Mexico"
   },
   {
     "code": "1ND",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "3N4",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "3N3",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "4FK",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "1R9",
-    "manufacter": "Roadrunner Hay Squeeze USA"
+    "name": "Roadrunner Hay Squeeze USA"
   },
   {
     "code": "2FZ",
-    "manufacter": "Sterling"
+    "name": "Sterling"
   },
   {
     "code": "5LX",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "1GM",
-    "manufacter": "Pontiac USA"
+    "name": "Pontiac USA"
   },
   {
     "code": "1GB",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "5FW",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "2MR",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4FL",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "1H0",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "4SH",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "3GJ",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "1HE",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "1LA",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "2GB",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "4FE",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "4V1",
-    "manufacter": "Volvo"
+    "name": "Volvo"
   },
   {
     "code": "JKP",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "1L9",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "ZCG",
-    "manufacter": "Cagiva SpA"
+    "name": "Cagiva SpA"
   },
   {
     "code": "2G3",
-    "manufacter": "Oldsmobile Canada"
+    "name": "Oldsmobile Canada"
   },
   {
     "code": "1N1",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "JMX",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "1G3",
-    "manufacter": "Oldsmobile USA"
+    "name": "Oldsmobile USA"
   },
   {
     "code": "1L5",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "JN0",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "93H",
-    "manufacter": "Honda Brazil"
+    "name": "Honda Brazil"
   },
   {
     "code": "2T0",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "2G4",
-    "manufacter": "Buick Canada"
+    "name": "Buick Canada"
   },
   {
     "code": "KLW",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "5TV",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "2MW",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "KLC",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "4FP",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "2T4",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "TMP",
-    "manufacter": "Škoda trolleybuses (Czech Republic)"
+    "name": "Škoda trolleybuses (Czech Republic)"
   },
   {
     "code": "JS4",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JK9",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "JAJ",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "4TG",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "3HY",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "4T0",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JN7",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "JSK",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JN6",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "TK9",
-    "manufacter": "SOR (Czech Republic)"
+    "name": "SOR (Czech Republic)"
   },
   {
     "code": "WEB",
-    "manufacter": "Evobus GmbH (Mercedes-Bus)"
+    "name": "Evobus GmbH (Mercedes-Bus)"
   },
   {
     "code": "3NY",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "NM0",
-    "manufacter": "Ford Turkey"
+    "name": "Ford Turkey"
   },
   {
     "code": "4TY",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "3NK",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "2MY",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "5LJ",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "MPA",
-    "manufacter": "Isuzu Thailand"
+    "name": "Isuzu Thailand"
   },
   {
     "code": "JTL",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4TW",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4M0",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4SW",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "3HS",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "2TN",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "4M2",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4FZ",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "MRH",
-    "manufacter": "Honda Thailand"
+    "name": "Honda Thailand"
   },
   {
     "code": "1LF",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "2M4",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "2GE",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "JNU",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "1GS",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "ZAR",
-    "manufacter": "Alfa Romeo"
+    "name": "Alfa Romeo"
   },
   {
     "code": "KL1",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "JNE",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "2M2",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "VSS",
-    "manufacter": "SEAT"
+    "name": "SEAT"
   },
   {
     "code": "JKV",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "WAU",
-    "manufacter": "Audi"
+    "name": "Audi"
   },
   {
     "code": "4TT",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "8AK",
-    "manufacter": "Suzuki Argentina"
+    "name": "Suzuki Argentina"
   },
   {
     "code": "1F9",
-    "manufacter": "FWD Corp."
+    "name": "FWD Corp."
   },
   {
     "code": "3H6",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "4S0",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "4MV",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JNS",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "KLX",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "1NZ",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "5TG",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "JMH",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "5TF",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "5TZ",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "SDB",
-    "manufacter": "Peugeot UK"
+    "name": "Peugeot UK"
   },
   {
     "code": "4SG",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JSY",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JA2",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "KLK",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "5F2",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "VLU",
-    "manufacter": "Scania France"
+    "name": "Scania France"
   },
   {
     "code": "1LG",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "KLZ",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "JAF",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "1GZ",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "4SX",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "5TS",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "JK7",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "JMC",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "5TH",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "MR0",
-    "manufacter": "Toyota Thailand"
+    "name": "Toyota Thailand"
   },
   {
     "code": "5FE",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "KLP",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "2T8",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "KLV",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "4SV",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "1HU",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "93R",
-    "manufacter": "Toyota Brazil"
+    "name": "Toyota Brazil"
   },
   {
     "code": "5LL",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "5TB",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "ZHW",
-    "manufacter": "Lamborghini"
+    "name": "Lamborghini"
   },
   {
     "code": "3GD",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "JAK",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "JK5",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "ZDM",
-    "manufacter": "Ducati Motor Holdings SpA"
+    "name": "Ducati Motor Holdings SpA"
   },
   {
     "code": "1LY",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "3N9",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "4FM",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "4MS",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4F8",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "3GA",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "JNW",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "2MJ",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JTR",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JSX",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "KL0",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "JFK",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "1LP",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "2TM",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "3NR",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "JT6",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "8AF",
-    "manufacter": "Ford Motor Company Argentina"
+    "name": "Ford Motor Company Argentina"
   },
   {
     "code": "1HS",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "5LA",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "3G0",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "5L6",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "3GZ",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "5FJ",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "1GF",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "2MV",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4MX",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "5FH",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "JFV",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "TM9",
-    "manufacter": "Škoda trolleybuses (Czech Republic)"
+    "name": "Škoda trolleybuses (Czech Republic)"
   },
   {
     "code": "2TZ",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "4UZ",
-    "manufacter": "Frt-Thomas Bus"
+    "name": "Frt-Thomas Bus"
   },
   {
     "code": "JSF",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "5T8",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "1LB",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "KLS",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "JHL",
-    "manufacter": "Honda"
+    "name": "Honda"
   },
   {
     "code": "JTH",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4FX",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "1GU",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "4T7",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "1H9",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "3HL",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "2TU",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "JSG",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JN4",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "VV9",
-    "manufacter": "TAUROSpain"
+    "name": "TAUROSpain"
   },
   {
     "code": "1LH",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "1GH",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "KLM",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "5LF",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "1G4",
-    "manufacter": "Buick USA"
+    "name": "Buick USA"
   },
   {
     "code": "2M6",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "2TG",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "5FZ",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "SCA",
-    "manufacter": "Rolls Royce"
+    "name": "Rolls Royce"
   },
   {
     "code": "3NA",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "JFC",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "4M5",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "VF8",
-    "manufacter": "Matra"
+    "name": "Matra"
   },
   {
     "code": "2FV",
-    "manufacter": "Freightliner"
+    "name": "Freightliner"
   },
   {
     "code": "VF7",
-    "manufacter": "Citroën"
+    "name": "Citroën"
   },
   {
     "code": "3NS",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "JNG",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "2HK",
-    "manufacter": "Honda Canada"
+    "name": "Honda Canada"
   },
   {
     "code": "5TU",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "1GT",
-    "manufacter": "GMC Truck USA"
+    "name": "GMC Truck USA"
   },
   {
     "code": "SAL",
-    "manufacter": "Land Rover"
+    "name": "Land Rover"
   },
   {
     "code": "2FT",
-    "manufacter": "Ford Motor Company Canada"
+    "name": "Ford Motor Company Canada"
   },
   {
     "code": "2MZ",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "2M5",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JNM",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "3GS",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "3NF",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "JSS",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JKZ",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "JKH",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "3H2",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "JKG",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "1VW",
-    "manufacter": "Volkswagen USA"
+    "name": "Volkswagen USA"
   },
   {
     "code": "6FP",
-    "manufacter": "Ford Motor Company Australia"
+    "name": "Ford Motor Company Australia"
   },
   {
     "code": "JA9",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "ZAP",
-    "manufacter": "Piaggio/Vespa/Gilera"
+    "name": "Piaggio/Vespa/Gilera"
   },
   {
     "code": "MA7",
-    "manufacter": "Honda Siel Cars India"
+    "name": "Honda Siel Cars India"
   },
   {
     "code": "4MZ",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "SHS",
-    "manufacter": "Honda UK"
+    "name": "Honda UK"
   },
   {
     "code": "8GG",
-    "manufacter": "Chevrolet Chile"
+    "name": "Chevrolet Chile"
   },
   {
     "code": "4FG",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "1NW",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "1GA",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "4F6",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "JM7",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "4FJ",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "WV1",
-    "manufacter": "Volkswagen Commercial Vehicles"
+    "name": "Volkswagen Commercial Vehicles"
   },
   {
     "code": "2ME",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4TN",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "1L1",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "3G7",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "JF4",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "1GY",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "5FA",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "1H2",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "VSX",
-    "manufacter": "Opel Spain"
+    "name": "Opel Spain"
   },
   {
     "code": "TMB",
-    "manufacter": "Škoda (Czech Republic)"
+    "name": "Škoda (Czech Republic)"
   },
   {
     "code": "6F5",
-    "manufacter": "Kenworth Australia"
+    "name": "Kenworth Australia"
   },
   {
     "code": "JSU",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "2MX",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JMF",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "5FN",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "1NP",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "1NB",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "2GF",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "LSY",
-    "manufacter": "Brilliance Zhonghua"
+    "name": "Brilliance Zhonghua"
   },
   {
     "code": "4RK",
-    "manufacter": "Nova Bus USA"
+    "name": "Nova Bus USA"
   },
   {
     "code": "4V2",
-    "manufacter": "Volvo"
+    "name": "Volvo"
   },
   {
     "code": "ZFA",
-    "manufacter": "Fiat"
+    "name": "Fiat"
   },
   {
     "code": "3NB",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "JS5",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JT4",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "1LR",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "1GK",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "4VL",
-    "manufacter": "Volvo"
+    "name": "Volvo"
   },
   {
     "code": "JK0",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "JSA",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "3HA",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "JFE",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "4F0",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "4SU",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "1GD",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "JTV",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "YV4",
-    "manufacter": "Volvo Cars"
+    "name": "Volvo Cars"
   },
   {
     "code": "JAM",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "1L6",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "JKD",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "1FB",
-    "manufacter": "Ford Motor Company"
+    "name": "Ford Motor Company"
   },
   {
     "code": "3HU",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "3NV",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "JFH",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "KLT",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "4SL",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "3ND",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "1HM",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "5FD",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "4MD",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4MT",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JTM",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JF7",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "5F3",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "2WM",
-    "manufacter": "Western Star"
+    "name": "Western Star"
   },
   {
     "code": "1LC",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "4SJ",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "XMC",
-    "manufacter": "Mitsubishi (NedCar)"
+    "name": "Mitsubishi (NedCar)"
   },
   {
     "code": "JFN",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "JA0",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "KL6",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "KNB",
-    "manufacter": "Kia"
+    "name": "Kia"
   },
   {
     "code": "JTJ",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JKS",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "2G2",
-    "manufacter": "Pontiac Canada"
+    "name": "Pontiac Canada"
   },
   {
     "code": "KNM",
-    "manufacter": "Renault Samsung"
+    "name": "Renault Samsung"
   },
   {
     "code": "2MB",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "5LP",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "JSD",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "KL5",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "JSJ",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "5T7",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "JTF",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "6G2",
-    "manufacter": "Pontiac Australia (GTO & G8)"
+    "name": "Pontiac Australia (GTO & G8)"
   },
   {
     "code": "1M9",
-    "manufacter": "Mynatt Truck & Equipment"
+    "name": "Mynatt Truck & Equipment"
   },
   {
     "code": "MAL",
-    "manufacter": "Hyundai"
+    "name": "Hyundai"
   },
   {
     "code": "9BM",
-    "manufacter": "Mercedes-Benz Brazil"
+    "name": "Mercedes-Benz Brazil"
   },
   {
     "code": "JT9",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "KL7",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "WBS",
-    "manufacter": "BMW M"
+    "name": "BMW M"
   },
   {
     "code": "JTN",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "ZLA",
-    "manufacter": "Lancia"
+    "name": "Lancia"
   },
   {
     "code": "2GS",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "1N8",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "1G9",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "JTS",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "5FT",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "MM8",
-    "manufacter": "Mazda Thailand"
+    "name": "Mazda Thailand"
   },
   {
     "code": "3HB",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "1LV",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "1N9",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "YS4",
-    "manufacter": "Scania Bus"
+    "name": "Scania Bus"
   },
   {
     "code": "JNL",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "1LJ",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "1HX",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "4MR",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4TR",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "3NC",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "JTX",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "2FM",
-    "manufacter": "Ford Motor Company Canada"
+    "name": "Ford Motor Company Canada"
   },
   {
     "code": "3GM",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "JFT",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "SAJ",
-    "manufacter": "Jaguar"
+    "name": "Jaguar"
   },
   {
     "code": "3N2",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "KLR",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "4MC",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "1G7",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "1N4",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "1HL",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "JT5",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "2HG",
-    "manufacter": "Honda Canada"
+    "name": "Honda Canada"
   },
   {
     "code": "JNN",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "2P3",
-    "manufacter": "Plymouth Canada"
+    "name": "Plymouth Canada"
   },
   {
     "code": "4SY",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "5TT",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "1NL",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "1HD",
-    "manufacter": "Harley-Davidson"
+    "name": "Harley-Davidson"
   },
   {
     "code": "JFZ",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "JNF",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "1FV",
-    "manufacter": "Freightliner"
+    "name": "Freightliner"
   },
   {
     "code": "VS6",
-    "manufacter": "Ford Spain"
+    "name": "Ford Spain"
   },
   {
     "code": "JAZ",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "LKL",
-    "manufacter": "Suzhou King Long"
+    "name": "Suzhou King Long"
   },
   {
     "code": "JKF",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "JKE",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "2G8",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "5TW",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "4MU",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "2GV",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "1HN",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "JS7",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "5FK",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "5F1",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "JS9",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "ZDF",
-    "manufacter": "Ferrari Dino"
+    "name": "Ferrari Dino"
   },
   {
     "code": "JNV",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "4T1",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "TN9",
-    "manufacter": "Karosa (Czech Republic)"
+    "name": "Karosa (Czech Republic)"
   },
   {
     "code": "SCC",
-    "manufacter": "Lotus Cars"
+    "name": "Lotus Cars"
   },
   {
     "code": "1L3",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "3HF",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "1HZ",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "2T2",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "1HP",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "1C6",
-    "manufacter": "Chrysler"
+    "name": "Chrysler"
   },
   {
     "code": "KLU",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "5NP",
-    "manufacter": "Hyundai USA"
+    "name": "Hyundai USA"
   },
   {
     "code": "PE1",
-    "manufacter": "Ford Phillipines"
+    "name": "Ford Phillipines"
   },
   {
     "code": "2TA",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "3G6",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "4TP",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "5L0",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "3HK",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "3HT",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "4FN",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "1N7",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "JAC",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "3GP",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "JT8",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4TJ",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "2T7",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "KL8",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "JTZ",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4T6",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "2ML",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "5N1",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "JF0",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "1L0",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "4M9",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "3H9",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "JTT",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4FW",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "NMT",
-    "manufacter": "Toyota Turkiye"
+    "name": "Toyota Turkiye"
   },
   {
     "code": "JFJ",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "4F1",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "5TA",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "JKX",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "4FV",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "YV3",
-    "manufacter": "Volvo Buses"
+    "name": "Volvo Buses"
   },
   {
     "code": "5FG",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "JKN",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "5F4",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "4S6",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "MNT",
-    "manufacter": "Nissan Thailand"
+    "name": "Nissan Thailand"
   },
   {
     "code": "1HY",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "JT1",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "3N8",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "2T3",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "YV1",
-    "manufacter": "Volvo Cars"
+    "name": "Volvo Cars"
   },
   {
     "code": "1LN",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "JFX",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "JSZ",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "1LE",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "5FF",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "1GL",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "JK2",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "4S4",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "SCF",
-    "manufacter": "Aston"
+    "name": "Aston"
   },
   {
     "code": "9BS",
-    "manufacter": "Scania Brazil"
+    "name": "Scania Brazil"
   },
   {
     "code": "8A1",
-    "manufacter": "Renault Argentina"
+    "name": "Renault Argentina"
   },
   {
     "code": "5LM",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "2TE",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "JTG",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "1GC",
-    "manufacter": "Chevrolet Truck USA"
+    "name": "Chevrolet Truck USA"
   },
   {
     "code": "YV2",
-    "manufacter": "Volvo Trucks"
+    "name": "Volvo Trucks"
   },
   {
     "code": "JK8",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "1LU",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "JK3",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "5TX",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "3G8",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "JS6",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "JA6",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "3GV",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "5LE",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "1GR",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "1N0",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "1H6",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "4S9",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "5L7",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "5T0",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "8GD",
-    "manufacter": "Peugeot Chile"
+    "name": "Peugeot Chile"
   },
   {
     "code": "1NX",
-    "manufacter": "NUMMI USA"
+    "name": "NUMMI USA"
   },
   {
     "code": "4T2",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "2CN",
-    "manufacter": "CAMI"
+    "name": "CAMI"
   },
   {
     "code": "4ME",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "LZM",
-    "manufacter": "MAN China"
+    "name": "MAN China"
   },
   {
     "code": "5L3",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "2FB",
-    "manufacter": "Ford Motor Company Canada"
+    "name": "Ford Motor Company Canada"
   },
   {
     "code": "1GN",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "3HJ",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "2TV",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "KLF",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "1G0",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "2MS",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4MG",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "2D3",
-    "manufacter": "Dodge Canada"
+    "name": "Dodge Canada"
   },
   {
     "code": "3H1",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "JSE",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "5TE",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "1LD",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "MA3",
-    "manufacter": "Suzuki India"
+    "name": "Suzuki India"
   },
   {
     "code": "JA5",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "5LY",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "93U",
-    "manufacter": "Audi Brazil"
+    "name": "Audi Brazil"
   },
   {
     "code": "4S2",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "4FD",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "4S8",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JFU",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "2GR",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "YK1",
-    "manufacter": "Saab"
+    "name": "Saab"
   },
   {
     "code": "4SP",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "2GJ",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "3N5",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "TRA",
-    "manufacter": "Ikarus Bus"
+    "name": "Ikarus Bus"
   },
   {
     "code": "SJN",
-    "manufacter": "Nissan UK"
+    "name": "Nissan UK"
   },
   {
     "code": "5FS",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "JSL",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "KMH",
-    "manufacter": "Hyundai"
+    "name": "Hyundai"
   },
   {
     "code": "2M8",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JFD",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "JML",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "2TB",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "4M7",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "9BG",
-    "manufacter": "Chevrolet Brazil"
+    "name": "Chevrolet Brazil"
   },
   {
     "code": "1NY",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "JAY",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "1HH",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "5LK",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "JMN",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "3H4",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "5L4",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "3NH",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "1J4",
-    "manufacter": "Jeep"
+    "name": "Jeep"
   },
   {
     "code": "5LN",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "AFA",
-    "manufacter": "Ford South Africa"
+    "name": "Ford South Africa"
   },
   {
     "code": "JTC",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "2GT",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "9FB",
-    "manufacter": "Renault Colombia"
+    "name": "Renault Colombia"
   },
   {
     "code": "3H5",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "5LG",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "MP1",
-    "manufacter": "Isuzu Thailand"
+    "name": "Isuzu Thailand"
   },
   {
     "code": "1FT",
-    "manufacter": "Ford Motor Company"
+    "name": "Ford Motor Company"
   },
   {
     "code": "JKK",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "TMK",
-    "manufacter": "Karosa (Czech Republic)"
+    "name": "Karosa (Czech Republic)"
   },
   {
     "code": "1NN",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "2TY",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "4SE",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "5LB",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "3HC",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "3H7",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "5TM",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "1C3",
-    "manufacter": "Chrysler"
+    "name": "Chrysler"
   },
   {
     "code": "4S3",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "2V4",
-    "manufacter": "Volkswagen Canada"
+    "name": "Volkswagen Canada"
   },
   {
     "code": "6MM",
-    "manufacter": "Mitsubishi Motors Australia"
+    "name": "Mitsubishi Motors Australia"
   },
   {
     "code": "1NC",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "WMA",
-    "manufacter": "MAN Germany"
+    "name": "MAN Germany"
   },
   {
     "code": "4TA",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "5F9",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "5TJ",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "5FP",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "JNH",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "4SF",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "4FS",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "5F7",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "SAR",
-    "manufacter": "Rover"
+    "name": "Rover"
   },
   {
     "code": "SFD",
-    "manufacter": "Alexander Dennis UK"
+    "name": "Alexander Dennis UK"
   },
   {
     "code": "VSK",
-    "manufacter": "Nissan Spain"
+    "name": "Nissan Spain"
   },
   {
     "code": "VX1",
-    "manufacter": "Zastava / Yugo Serbia"
+    "name": "Zastava / Yugo Serbia"
   },
   {
     "code": "1HF",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "1LT",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "1H3",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "4VZ",
-    "manufacter": "Volvo"
+    "name": "Volvo"
   },
   {
     "code": "JNK",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "JM0",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "3NX",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "2M9",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "2MK",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "2MD",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "6F4",
-    "manufacter": "Nissan Motor Company Australia"
+    "name": "Nissan Motor Company Australia"
   },
   {
     "code": "1M1",
-    "manufacter": "Mack Truck USA"
+    "name": "Mack Truck USA"
   },
   {
     "code": "XTA",
-    "manufacter": "Lada/AutoVaz (Russia)"
+    "name": "Lada/AutoVaz (Russia)"
   },
   {
     "code": "2MU",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "5LU",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "8AW",
-    "manufacter": "Volkswagen Argentina"
+    "name": "Volkswagen Argentina"
   },
   {
     "code": "KLB",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "4V3",
-    "manufacter": "Volvo"
+    "name": "Volvo"
   },
   {
     "code": "2TX",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "JF3",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "4VM",
-    "manufacter": "Volvo"
+    "name": "Volvo"
   },
   {
     "code": "2MP",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JFP",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "3GB",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "5L1",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "2M0",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "MNB",
-    "manufacter": "Ford Thailand"
+    "name": "Ford Thailand"
   },
   {
     "code": "JAN",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "MMB",
-    "manufacter": "Mitsubishi Thailand"
+    "name": "Mitsubishi Thailand"
   },
   {
     "code": "2GA",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "PL1",
-    "manufacter": "Proton"
+    "name": "Proton"
   },
   {
     "code": "4MM",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "SU9",
-    "manufacter": "Solaris Bus & Coach (Poland)"
+    "name": "Solaris Bus & Coach (Poland)"
   },
   {
     "code": "5T6",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "2MG",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "JKA",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "L5Y",
-    "manufacter": "Merato Motorcycle Taizhou Zhongneng"
+    "name": "Merato Motorcycle Taizhou Zhongneng"
   },
   {
     "code": "3HP",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "2GM",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "4SD",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JFS",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "KLY",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "4MB",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "1GE",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "JNP",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "KLJ",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "JMR",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "JHG",
-    "manufacter": "Honda"
+    "name": "Honda"
   },
   {
     "code": "4MW",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "5FR",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "JKW",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "1H5",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "5T3",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "MC2",
-    "manufacter": "Volvo Eicher commercial vehicles limited."
+    "name": "Volvo Eicher commercial vehicles limited."
   },
   {
     "code": "KLG",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "4FF",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "LGH",
-    "manufacter": "Dong Feng (DFM)"
+    "name": "Dong Feng (DFM)"
   },
   {
     "code": "JA1",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "JTK",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4MA",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "4S5",
-    "manufacter": "Subaru-Isuzu Automotive"
+    "name": "Subaru-Isuzu Automotive"
   },
   {
     "code": "JMY",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "5FY",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "2G9",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "3G1",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "KL2",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "5F0",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "3HR",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "LVV",
-    "manufacter": "Chery"
+    "name": "Chery"
   },
   {
     "code": "KPT",
-    "manufacter": "Ssangyong"
+    "name": "Ssangyong"
   },
   {
     "code": "1L4",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "5FC",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "KLN",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "5F6",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "1NR",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "5L2",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "5T2",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "1FU",
-    "manufacter": "Freightliner"
+    "name": "Freightliner"
   },
   {
     "code": "WAG",
-    "manufacter": "Neoplan"
+    "name": "Neoplan"
   },
   {
     "code": "4FH",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "JFA",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "1H8",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "3G5",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "TSE",
-    "manufacter": "Ikarus Egyedi Autobuszgyar"
+    "name": "Ikarus Egyedi Autobuszgyar"
   },
   {
     "code": "2HM",
-    "manufacter": "Hyundai Canada"
+    "name": "Hyundai Canada"
   },
   {
     "code": "2T9",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "4TC",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4MY",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "9BW",
-    "manufacter": "Volkswagen Brazil"
+    "name": "Volkswagen Brazil"
   },
   {
     "code": "1NU",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "2NV",
-    "manufacter": "Nova Bus Canada"
+    "name": "Nova Bus Canada"
   },
   {
     "code": "5LC",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "3VW",
-    "manufacter": "Volkswagen Mexico"
+    "name": "Volkswagen Mexico"
   },
   {
     "code": "6U9",
-    "manufacter": "Privately Imported car in Australia"
+    "name": "Privately Imported car in Australia"
   },
   {
     "code": "ZD4",
-    "manufacter": "Aprilia"
+    "name": "Aprilia"
   },
   {
     "code": "LDY",
-    "manufacter": "Zhongtong Coach"
+    "name": "Zhongtong Coach"
   },
   {
     "code": "KLD",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "JT2",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JTW",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JAG",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "KL4",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "JA4",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "4FR",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "4T9",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4V6",
-    "manufacter": "Volvo"
+    "name": "Volvo"
   },
   {
     "code": "LZE",
-    "manufacter": "Isuzu Guangzhou"
+    "name": "Isuzu Guangzhou"
   },
   {
     "code": "3NP",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "JMA",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "2G0",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "8AP",
-    "manufacter": "Fiat Argentina"
+    "name": "Fiat Argentina"
   },
   {
     "code": "1G8",
-    "manufacter": "Saturn USA"
+    "name": "Saturn USA"
   },
   {
     "code": "VSE",
-    "manufacter": "Suzuki Spain (Santana Motors)"
+    "name": "Suzuki Spain (Santana Motors)"
   },
   {
     "code": "JMZ",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "4V5",
-    "manufacter": "Volvo"
+    "name": "Volvo"
   },
   {
     "code": "5LZ",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "JFR",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "JM2",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "5TL",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "JN9",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "2G5",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "3H0",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "93Y",
-    "manufacter": "Renault Brazil"
+    "name": "Renault Brazil"
   },
   {
     "code": "JF8",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "JKJ",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "JSP",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "2TF",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "WDC",
-    "manufacter": "DaimlerChrysler"
+    "name": "DaimlerChrysler"
   },
   {
     "code": "WDD",
-    "manufacter": "McLaren"
+    "name": "McLaren"
   },
   {
     "code": "3HM",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "WMW",
-    "manufacter": "MINI"
+    "name": "MINI"
   },
   {
     "code": "3NW",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "2T6",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "MHR",
-    "manufacter": "Honda Indonesia"
+    "name": "Honda Indonesia"
   },
   {
     "code": "1L7",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "3N7",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "JFM",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "JMJ",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "JM8",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "2TP",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "1GG",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "JFY",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "JFB",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "3NE",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "6T1",
-    "manufacter": "Toyota Motor Corporation Australia"
+    "name": "Toyota Motor Corporation Australia"
   },
   {
     "code": "NLE",
-    "manufacter": "Mercedes-Benz Turk Truck"
+    "name": "Mercedes-Benz Turk Truck"
   },
   {
     "code": "1NG",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "1NE",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "5TK",
-    "manufacter": "Toyota USA - trucks"
+    "name": "Toyota USA - trucks"
   },
   {
     "code": "2TS",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "4F9",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "4MN",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "WVW",
-    "manufacter": "Volkswagen"
+    "name": "Volkswagen"
   },
   {
     "code": "JTP",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4MH",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "KM8",
-    "manufacter": "Hyundai"
+    "name": "Hyundai"
   },
   {
     "code": "JTU",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "4TF",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JMS",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "3NN",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "2TC",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "4TV",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "2T1",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "2GX",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "JK4",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "JMU",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "JF5",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "WP0",
-    "manufacter": "Porsche"
+    "name": "Porsche"
   },
   {
     "code": "JNX",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "1G5",
-    "manufacter": "General Motors USA"
+    "name": "General Motors USA"
   },
   {
     "code": "JNR",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "JF2",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "JKB",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "JME",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "JA3",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "1G2",
-    "manufacter": "Pontiac USA"
+    "name": "Pontiac USA"
   },
   {
     "code": "VWV",
-    "manufacter": "Volkswagen Spain"
+    "name": "Volkswagen Spain"
   },
   {
     "code": "2GU",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "4TK",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "1HV",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "VS9",
-    "manufacter": "Carrocerias Ayats (Spain)"
+    "name": "Carrocerias Ayats (Spain)"
   },
   {
     "code": "1FD",
-    "manufacter": "Ford Motor Company"
+    "name": "Ford Motor Company"
   },
   {
     "code": "JMP",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "KLH",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "4TD",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "2MH",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "2FC",
-    "manufacter": "Ford Motor Company Canada"
+    "name": "Ford Motor Company Canada"
   },
   {
     "code": "1G6",
-    "manufacter": "Cadillac USA"
+    "name": "Cadillac USA"
   },
   {
     "code": "9BD",
-    "manufacter": "Fiat Brazil"
+    "name": "Fiat Brazil"
   },
   {
     "code": "3HZ",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "JAV",
-    "manufacter": "Isuzu"
+    "name": "Isuzu"
   },
   {
     "code": "2G7",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "WBA",
-    "manufacter": "BMW"
+    "name": "BMW"
   },
   {
     "code": "JT7",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "JKM",
-    "manufacter": "Kawasaki"
+    "name": "Kawasaki"
   },
   {
     "code": "3N6",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "1LX",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "JMK",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "3NT",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "5F8",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   },
   {
     "code": "KLA",
-    "manufacter": "Daewoo General Motors South Korea"
+    "name": "Daewoo General Motors South Korea"
   },
   {
     "code": "2GG",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": "3GW",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "4F5",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "1M3",
-    "manufacter": "Mack Truck USA"
+    "name": "Mack Truck USA"
   },
   {
     "code": "1LW",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "4M3",
-    "manufacter": "Mercury"
+    "name": "Mercury"
   },
   {
     "code": "3GN",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "1NS",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "1NH",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "1XK",
-    "manufacter": "Kenworth USA"
+    "name": "Kenworth USA"
   },
   {
     "code": "2TH",
-    "manufacter": "Toyota Canada"
+    "name": "Toyota Canada"
   },
   {
     "code": "1HC",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "1NJ",
-    "manufacter": "Nissan USA"
+    "name": "Nissan USA"
   },
   {
     "code": "JFW",
-    "manufacter": "Fuji Heavy Industries"
+    "name": "Fuji Heavy Industries"
   },
   {
     "code": "JSW",
-    "manufacter": "Suzuki"
+    "name": "Suzuki"
   },
   {
     "code": "ZFF",
-    "manufacter": "Ferrari"
+    "name": "Ferrari"
   },
   {
     "code": "LTV",
-    "manufacter": "Toyota Tian Jin"
+    "name": "Toyota Tian Jin"
   },
   {
     "code": "3G2",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "4FT",
-    "manufacter": "Mazda USA"
+    "name": "Mazda USA"
   },
   {
     "code": "3H8",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "3GG",
-    "manufacter": "General Motors Mexico"
+    "name": "General Motors Mexico"
   },
   {
     "code": "3HD",
-    "manufacter": "Honda Mexico"
+    "name": "Honda Mexico"
   },
   {
     "code": "4TS",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "2FU",
-    "manufacter": "Freightliner"
+    "name": "Freightliner"
   },
   {
     "code": "1FM",
-    "manufacter": "Ford Motor Company"
+    "name": "Ford Motor Company"
   },
   {
     "code": "1LK",
-    "manufacter": "Lincoln USA"
+    "name": "Lincoln USA"
   },
   {
     "code": "JMW",
-    "manufacter": "Mazda"
+    "name": "Mazda"
   },
   {
     "code": "2GY",
-    "manufacter": "General Motors Canada"
+    "name": "General Motors Canada"
   },
   {
     "code": 936,
-    "manufacter": "Peugeot Brazil"
+    "name": "Peugeot Brazil"
   },
   {
     "code": "4TM",
-    "manufacter": "Toyota"
+    "name": "Toyota"
   },
   {
     "code": "5LR",
-    "manufacter": "Lincoln"
+    "name": "Lincoln"
   },
   {
     "code": "ZOM",
-    "manufacter": "OM"
+    "name": "OM"
   },
   {
     "code": "3NJ",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "MMT",
-    "manufacter": "Mitsubishi Thailand"
+    "name": "Mitsubishi Thailand"
   },
   {
     "code": "1M4",
-    "manufacter": "Mack Truck USA"
+    "name": "Mack Truck USA"
   },
   {
     "code": "1HB",
-    "manufacter": "Honda USA"
+    "name": "Honda USA"
   },
   {
     "code": "3NZ",
-    "manufacter": "Nissan Mexico"
+    "name": "Nissan Mexico"
   },
   {
     "code": "JN1",
-    "manufacter": "Nissan"
+    "name": "Nissan"
   },
   {
     "code": "5FU",
-    "manufacter": "Honda USA-Alabama"
+    "name": "Honda USA-Alabama"
   }
 ]

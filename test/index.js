@@ -2,6 +2,7 @@ var should = require('chai').should();
 var vinDecoder = require('../index');
 var validate = vinDecoder.validate;
 var split = vinDecoder.split;
+var decode = vinDecoder.decode;
 
 
 describe('#validate', function(){
@@ -46,5 +47,10 @@ describe('#split',function(){
   it('split the vehicle serial number code',function(){
     split('1NXBR32E77Z923602').serialNumber.should.equal('923602');
   });
+});
 
+describe('#decode', function(){
+  it('decode the vehicle country of origin', function(){
+    decode('1NXBR32E77Z923602').country.should.equal('United States');
+  });
 });
