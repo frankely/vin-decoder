@@ -22,10 +22,29 @@ describe('#split',function(){
   it('split the vehicle year code',function(){
     split('1NXBR32E77Z923602').year.should.equal('7');
   });
+
   it('split the vehicle security code',function(){
     split('1NXBR32E77Z923602').securityCode.should.equal('7');
   });
+
   it('split the vehicle assembly plant code',function(){
     split('1NXBR32E77Z923602').assemblyPlant.should.equal('Z');
   });
+
+  it('split the vehicle made in code',function(){
+    split('1NXBR32E77Z923602').madeIn.should.equal('1N');
+  });
+
+  it('split the vehicle manufacter code',function(){
+    split('1NXBR32E77Z923602').manufacter.should.equal('NX');
+  });
+
+  it('split the vehicle details code',function(){
+    split('1NXBR32E77Z923602').details.should.equal('BR32E');
+  });
+
+  it('split the vehicle serial number code',function(){
+    split('1NXBR32E77Z923602').serialNumber.should.equal('923602');
+  });
+
 });

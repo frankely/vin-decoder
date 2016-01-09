@@ -1,0 +1,1862 @@
+[
+  {
+    "code": "VF",
+    "country": "France"
+  },
+  {
+    "code": "1J",
+    "country": "United States"
+  },
+  {
+    "code": "AC",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LT",
+    "country": "China"
+  },
+  {
+    "code": "ME",
+    "country": "India"
+  },
+  {
+    "code": "MC",
+    "country": "India"
+  },
+  {
+    "code": "8B",
+    "country": "Argentina"
+  },
+  {
+    "code": "2Z",
+    "country": "Canada"
+  },
+  {
+    "code": "XL",
+    "country": "The Netherlands"
+  },
+  {
+    "code": "2P",
+    "country": "Canada"
+  },
+  {
+    "code": "SU",
+    "country": "Poland"
+  },
+  {
+    "code": "J8",
+    "country": "Japan"
+  },
+  {
+    "code": "LZ",
+    "country": "China"
+  },
+  {
+    "code": "6E",
+    "country": "Australia"
+  },
+  {
+    "code": "VR",
+    "country": "France"
+  },
+  {
+    "code": "WL",
+    "country": "Germany"
+  },
+  {
+    "code": "8D",
+    "country": "Argentina"
+  },
+  {
+    "code": "4W",
+    "country": "United States"
+  },
+  {
+    "code": 81,
+    "country": "Venezuela"
+  },
+  {
+    "code": "8C",
+    "country": "Argentina"
+  },
+  {
+    "code": "ZC",
+    "country": "Italy"
+  },
+  {
+    "code": "4S",
+    "country": "United States"
+  },
+  {
+    "code": "6P",
+    "country": "Australia"
+  },
+  {
+    "code": "L1",
+    "country": "China"
+  },
+  {
+    "code": 22,
+    "country": "Canada"
+  },
+  {
+    "code": "VZ",
+    "country": "Yugoslavia"
+  },
+  {
+    "code": "WF",
+    "country": "Germany"
+  },
+  {
+    "code": "J9",
+    "country": "Japan"
+  },
+  {
+    "code": "J3",
+    "country": "Japan"
+  },
+  {
+    "code": "JV",
+    "country": "Japan"
+  },
+  {
+    "code": "9D",
+    "country": "Brazil"
+  },
+  {
+    "code": "LE",
+    "country": "China"
+  },
+  {
+    "code": 41,
+    "country": "United States"
+  },
+  {
+    "code": "VU",
+    "country": "Spain"
+  },
+  {
+    "code": "8Y",
+    "country": "Venezuela"
+  },
+  {
+    "code": 59,
+    "country": "United States"
+  },
+  {
+    "code": "WH",
+    "country": "Germany"
+  },
+  {
+    "code": 55,
+    "country": "United States"
+  },
+  {
+    "code": "MK",
+    "country": "Indonesia"
+  },
+  {
+    "code": "2E",
+    "country": "Canada"
+  },
+  {
+    "code": "WY",
+    "country": "Germany"
+  },
+  {
+    "code": "9J",
+    "country": "Colombia"
+  },
+  {
+    "code": "PC",
+    "country": "Philippines"
+  },
+  {
+    "code": "3T",
+    "country": "Mexico"
+  },
+  {
+    "code": "7E",
+    "country": "New Zealand"
+  },
+  {
+    "code": "VD",
+    "country": "Austria"
+  },
+  {
+    "code": 52,
+    "country": "United States"
+  },
+  {
+    "code": "YH",
+    "country": "Finland"
+  },
+  {
+    "code": "7A",
+    "country": "New Zealand"
+  },
+  {
+    "code": "MR",
+    "country": "Thailand"
+  },
+  {
+    "code": "YA",
+    "country": "Belgium"
+  },
+  {
+    "code": 95,
+    "country": "Brazil"
+  },
+  {
+    "code": 37,
+    "country": "Mexico"
+  },
+  {
+    "code": "J1",
+    "country": "Japan"
+  },
+  {
+    "code": "JE",
+    "country": "Japan"
+  },
+  {
+    "code": "9G",
+    "country": "Colombia"
+  },
+  {
+    "code": "3W",
+    "country": "Mexico"
+  },
+  {
+    "code": "5P",
+    "country": "United States"
+  },
+  {
+    "code": "4D",
+    "country": "United States"
+  },
+  {
+    "code": 99,
+    "country": "Brazil"
+  },
+  {
+    "code": "3U",
+    "country": "Mexico"
+  },
+  {
+    "code": "6W",
+    "country": "Australia"
+  },
+  {
+    "code": "ZL",
+    "country": "Italy"
+  },
+  {
+    "code": "6T",
+    "country": "Australia"
+  },
+  {
+    "code": "VC",
+    "country": "Austria"
+  },
+  {
+    "code": "PP",
+    "country": "Malaysia"
+  },
+  {
+    "code": "6U",
+    "country": "Australia"
+  },
+  {
+    "code": "AH",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "3F",
+    "country": "Mexico"
+  },
+  {
+    "code": "SY",
+    "country": "Poland"
+  },
+  {
+    "code": "JB",
+    "country": "Japan"
+  },
+  {
+    "code": "TV",
+    "country": "Hungary"
+  },
+  {
+    "code": "1M",
+    "country": "United States"
+  },
+  {
+    "code": "W0",
+    "country": "Germany"
+  },
+  {
+    "code": "4Y",
+    "country": "United States"
+  },
+  {
+    "code": "LJ",
+    "country": "China"
+  },
+  {
+    "code": 38,
+    "country": "Mexico"
+  },
+  {
+    "code": "4T",
+    "country": "United States"
+  },
+  {
+    "code": "3D",
+    "country": "Mexico"
+  },
+  {
+    "code": "9B",
+    "country": "Brazil"
+  },
+  {
+    "code": "1N",
+    "country": "United States"
+  },
+  {
+    "code": 32,
+    "country": "Mexico"
+  },
+  {
+    "code": "J2",
+    "country": "Japan"
+  },
+  {
+    "code": "ZG",
+    "country": "Italy"
+  },
+  {
+    "code": "3H",
+    "country": "Mexico"
+  },
+  {
+    "code": "4J",
+    "country": "United States"
+  },
+  {
+    "code": "AM",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "JX",
+    "country": "Japan"
+  },
+  {
+    "code": "8A",
+    "country": "Argentina"
+  },
+  {
+    "code": "YD",
+    "country": "Belgium"
+  },
+  {
+    "code": "ZH",
+    "country": "Italy"
+  },
+  {
+    "code": "SR",
+    "country": "Germany"
+  },
+  {
+    "code": "TC",
+    "country": "Switzerland"
+  },
+  {
+    "code": "1A",
+    "country": "United States"
+  },
+  {
+    "code": "2W",
+    "country": "Canada"
+  },
+  {
+    "code": "JP",
+    "country": "Japan"
+  },
+  {
+    "code": "AE",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "4H",
+    "country": "United States"
+  },
+  {
+    "code": "L5",
+    "country": "China"
+  },
+  {
+    "code": "W5",
+    "country": "Germany"
+  },
+  {
+    "code": "W7",
+    "country": "Germany"
+  },
+  {
+    "code": "TA",
+    "country": "Switzerland"
+  },
+  {
+    "code": "5V",
+    "country": "United States"
+  },
+  {
+    "code": "WA",
+    "country": "Germany"
+  },
+  {
+    "code": "ML",
+    "country": "Thailand"
+  },
+  {
+    "code": "TU",
+    "country": "Hungary"
+  },
+  {
+    "code": "MH",
+    "country": "Indonesia"
+  },
+  {
+    "code": 96,
+    "country": "Brazil"
+  },
+  {
+    "code": "8E",
+    "country": "Argentina"
+  },
+  {
+    "code": "4V",
+    "country": "United States"
+  },
+  {
+    "code": "J6",
+    "country": "Japan"
+  },
+  {
+    "code": "ST",
+    "country": "Germany"
+  },
+  {
+    "code": "WJ",
+    "country": "Germany"
+  },
+  {
+    "code": "JR",
+    "country": "Japan"
+  },
+  {
+    "code": "YB",
+    "country": "Belgium"
+  },
+  {
+    "code": 26,
+    "country": "Canada"
+  },
+  {
+    "code": "LG",
+    "country": "China"
+  },
+  {
+    "code": "WD",
+    "country": "Germany"
+  },
+  {
+    "code": "4E",
+    "country": "United States"
+  },
+  {
+    "code": "6V",
+    "country": "Australia"
+  },
+  {
+    "code": "WW",
+    "country": "Germany"
+  },
+  {
+    "code": "WT",
+    "country": "Germany"
+  },
+  {
+    "code": "MD",
+    "country": "India"
+  },
+  {
+    "code": 30,
+    "country": "Mexico"
+  },
+  {
+    "code": "J4",
+    "country": "Japan"
+  },
+  {
+    "code": 46,
+    "country": "United States"
+  },
+  {
+    "code": "WV",
+    "country": "Germany"
+  },
+  {
+    "code": 36,
+    "country": "Mexico"
+  },
+  {
+    "code": "2G",
+    "country": "Canada"
+  },
+  {
+    "code": "2J",
+    "country": "Canada"
+  },
+  {
+    "code": "2N",
+    "country": "Canada"
+  },
+  {
+    "code": "TF",
+    "country": "Switzerland"
+  },
+  {
+    "code": "AL",
+    "country": "United Kingdom"
+  },
+  {
+    "code": 94,
+    "country": "Brazil"
+  },
+  {
+    "code": "L0",
+    "country": "China"
+  },
+  {
+    "code": "KL",
+    "country": "South Korea"
+  },
+  {
+    "code": "PM",
+    "country": "Malaysia"
+  },
+  {
+    "code": "6R",
+    "country": "Australia"
+  },
+  {
+    "code": "YF",
+    "country": "Finland"
+  },
+  {
+    "code": "LH",
+    "country": "China"
+  },
+  {
+    "code": "X0",
+    "country": "Russia"
+  },
+  {
+    "code": "JH",
+    "country": "Japan"
+  },
+  {
+    "code": "6D",
+    "country": "Australia"
+  },
+  {
+    "code": 97,
+    "country": "Brazil"
+  },
+  {
+    "code": "MG",
+    "country": "Indonesia"
+  },
+  {
+    "code": "4X",
+    "country": "United States"
+  },
+  {
+    "code": "LA",
+    "country": "China"
+  },
+  {
+    "code": "2C",
+    "country": "Canada"
+  },
+  {
+    "code": "LF",
+    "country": "China"
+  },
+  {
+    "code": "1B",
+    "country": "United States"
+  },
+  {
+    "code": 21,
+    "country": "Canada"
+  },
+  {
+    "code": "WU",
+    "country": "Germany"
+  },
+  {
+    "code": "W8",
+    "country": "Germany"
+  },
+  {
+    "code": "6H",
+    "country": "Australia"
+  },
+  {
+    "code": "3C",
+    "country": "Mexico"
+  },
+  {
+    "code": "8H",
+    "country": "Chile"
+  },
+  {
+    "code": "VG",
+    "country": "France"
+  },
+  {
+    "code": "9A",
+    "country": "Brazil"
+  },
+  {
+    "code": 47,
+    "country": "United States"
+  },
+  {
+    "code": 42,
+    "country": "United States"
+  },
+  {
+    "code": "J5",
+    "country": "Japan"
+  },
+  {
+    "code": "X7",
+    "country": "Russia"
+  },
+  {
+    "code": 17,
+    "country": "United States"
+  },
+  {
+    "code": "5L",
+    "country": "United States"
+  },
+  {
+    "code": "YJ",
+    "country": "Finland"
+  },
+  {
+    "code": "ZD",
+    "country": "Italy"
+  },
+  {
+    "code": "2S",
+    "country": "Canada"
+  },
+  {
+    "code": 48,
+    "country": "United States"
+  },
+  {
+    "code": "1F",
+    "country": "United States"
+  },
+  {
+    "code": "8F",
+    "country": "Chile"
+  },
+  {
+    "code": "5C",
+    "country": "United States"
+  },
+  {
+    "code": "YS",
+    "country": "Sweden"
+  },
+  {
+    "code": "1K",
+    "country": "United States"
+  },
+  {
+    "code": 93,
+    "country": "Brazil"
+  },
+  {
+    "code": "W3",
+    "country": "Germany"
+  },
+  {
+    "code": "W2",
+    "country": "Germany"
+  },
+  {
+    "code": "ZR",
+    "country": "Italy"
+  },
+  {
+    "code": "VH",
+    "country": "France"
+  },
+  {
+    "code": "WB",
+    "country": "Germany"
+  },
+  {
+    "code": "VV",
+    "country": "Spain"
+  },
+  {
+    "code": "6J",
+    "country": "Australia"
+  },
+  {
+    "code": "LD",
+    "country": "China"
+  },
+  {
+    "code": "TK",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "YC",
+    "country": "Belgium"
+  },
+  {
+    "code": "6K",
+    "country": "Australia"
+  },
+  {
+    "code": "9C",
+    "country": "Brazil"
+  },
+  {
+    "code": "MM",
+    "country": "Thailand"
+  },
+  {
+    "code": "LU",
+    "country": "China"
+  },
+  {
+    "code": "MF",
+    "country": "Indonesia"
+  },
+  {
+    "code": "7C",
+    "country": "New Zealand"
+  },
+  {
+    "code": "1P",
+    "country": "United States"
+  },
+  {
+    "code": "XM",
+    "country": "The Netherlands"
+  },
+  {
+    "code": "2L",
+    "country": "Canada"
+  },
+  {
+    "code": 33,
+    "country": "Mexico"
+  },
+  {
+    "code": "1E",
+    "country": "United States"
+  },
+  {
+    "code": "3E",
+    "country": "Mexico"
+  },
+  {
+    "code": 40,
+    "country": "United States"
+  },
+  {
+    "code": "3K",
+    "country": "Mexico"
+  },
+  {
+    "code": "3Z",
+    "country": "Mexico"
+  },
+  {
+    "code": "5B",
+    "country": "United States"
+  },
+  {
+    "code": "PL",
+    "country": "Malaysia"
+  },
+  {
+    "code": "4R",
+    "country": "United States"
+  },
+  {
+    "code": 98,
+    "country": "Brazil"
+  },
+  {
+    "code": "WR",
+    "country": "Germany"
+  },
+  {
+    "code": 27,
+    "country": "Canada"
+  },
+  {
+    "code": "WE",
+    "country": "Germany"
+  },
+  {
+    "code": "YV",
+    "country": "Sweden"
+  },
+  {
+    "code": "L6",
+    "country": "China"
+  },
+  {
+    "code": "MJ",
+    "country": "Indonesia"
+  },
+  {
+    "code": "AA",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "KP",
+    "country": "South Korea"
+  },
+  {
+    "code": "XW",
+    "country": "USSR"
+  },
+  {
+    "code": "1H",
+    "country": "United States"
+  },
+  {
+    "code": "VM",
+    "country": "France"
+  },
+  {
+    "code": "2K",
+    "country": "Canada"
+  },
+  {
+    "code": "XS",
+    "country": "USSR"
+  },
+  {
+    "code": "RF",
+    "country": "Taiwan"
+  },
+  {
+    "code": "1U",
+    "country": "United States"
+  },
+  {
+    "code": "1G",
+    "country": "United States"
+  },
+  {
+    "code": "LC",
+    "country": "China"
+  },
+  {
+    "code": "1T",
+    "country": "United States"
+  },
+  {
+    "code": "1S",
+    "country": "United States"
+  },
+  {
+    "code": "TM",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "TE",
+    "country": "Switzerland"
+  },
+  {
+    "code": "JK",
+    "country": "Japan"
+  },
+  {
+    "code": 28,
+    "country": "Canada"
+  },
+  {
+    "code": "LP",
+    "country": "China"
+  },
+  {
+    "code": "V1",
+    "country": "Yugoslavia"
+  },
+  {
+    "code": "W6",
+    "country": "Germany"
+  },
+  {
+    "code": "4B",
+    "country": "United States"
+  },
+  {
+    "code": "TP",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "6B",
+    "country": "Australia"
+  },
+  {
+    "code": "2A",
+    "country": "Canada"
+  },
+  {
+    "code": "SZ",
+    "country": "Poland"
+  },
+  {
+    "code": 35,
+    "country": "Mexico"
+  },
+  {
+    "code": "JU",
+    "country": "Japan"
+  },
+  {
+    "code": "2Y",
+    "country": "Canada"
+  },
+  {
+    "code": "7D",
+    "country": "New Zealand"
+  },
+  {
+    "code": "WZ",
+    "country": "Germany"
+  },
+  {
+    "code": "YK",
+    "country": "Finland"
+  },
+  {
+    "code": "YG",
+    "country": "Finland"
+  },
+  {
+    "code": "X4",
+    "country": "Russia"
+  },
+  {
+    "code": "4G",
+    "country": "United States"
+  },
+  {
+    "code": "TL",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "5F",
+    "country": "United States"
+  },
+  {
+    "code": "2F",
+    "country": "Canada"
+  },
+  {
+    "code": "2X",
+    "country": "Canada"
+  },
+  {
+    "code": "JN",
+    "country": "Japan"
+  },
+  {
+    "code": "WK",
+    "country": "Germany"
+  },
+  {
+    "code": "WS",
+    "country": "Germany"
+  },
+  {
+    "code": "WN",
+    "country": "Germany"
+  },
+  {
+    "code": "6L",
+    "country": "Australia"
+  },
+  {
+    "code": "AF",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LK",
+    "country": "China"
+  },
+  {
+    "code": "LN",
+    "country": "China"
+  },
+  {
+    "code": "5Y",
+    "country": "United States"
+  },
+  {
+    "code": "SX",
+    "country": "Poland"
+  },
+  {
+    "code": "L9",
+    "country": "China"
+  },
+  {
+    "code": "JW",
+    "country": "Japan"
+  },
+  {
+    "code": "SS",
+    "country": "Germany"
+  },
+  {
+    "code": "5G",
+    "country": "United States"
+  },
+  {
+    "code": "PA",
+    "country": "Philippines"
+  },
+  {
+    "code": "5K",
+    "country": "United States"
+  },
+  {
+    "code": "JZ",
+    "country": "Japan"
+  },
+  {
+    "code": 18,
+    "country": "United States"
+  },
+  {
+    "code": "5D",
+    "country": "United States"
+  },
+  {
+    "code": "5W",
+    "country": "United States"
+  },
+  {
+    "code": "AD",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "AK",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "LY",
+    "country": "China"
+  },
+  {
+    "code": 12,
+    "country": "United States"
+  },
+  {
+    "code": "JA",
+    "country": "Japan"
+  },
+  {
+    "code": "1V",
+    "country": "United States"
+  },
+  {
+    "code": "5X",
+    "country": "United States"
+  },
+  {
+    "code": 20,
+    "country": "Canada"
+  },
+  {
+    "code": 25,
+    "country": "Canada"
+  },
+  {
+    "code": 57,
+    "country": "United States"
+  },
+  {
+    "code": "LS",
+    "country": "China"
+  },
+  {
+    "code": "2V",
+    "country": "Canada"
+  },
+  {
+    "code": "3S",
+    "country": "Mexico"
+  },
+  {
+    "code": "1L",
+    "country": "United States"
+  },
+  {
+    "code": "5J",
+    "country": "United States"
+  },
+  {
+    "code": "2T",
+    "country": "Canada"
+  },
+  {
+    "code": 44,
+    "country": "United States"
+  },
+  {
+    "code": "AB",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "3J",
+    "country": "Mexico"
+  },
+  {
+    "code": 13,
+    "country": "United States"
+  },
+  {
+    "code": "RG",
+    "country": "Taiwan"
+  },
+  {
+    "code": "TN",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "LM",
+    "country": "China"
+  },
+  {
+    "code": "LB",
+    "country": "China"
+  },
+  {
+    "code": "YE",
+    "country": "Belgium"
+  },
+  {
+    "code": "V2",
+    "country": "Yugoslavia"
+  },
+  {
+    "code": 43,
+    "country": "United States"
+  },
+  {
+    "code": "4U",
+    "country": "United States"
+  },
+  {
+    "code": "TH",
+    "country": "Switzerland"
+  },
+  {
+    "code": "7B",
+    "country": "New Zealand"
+  },
+  {
+    "code": "LV",
+    "country": "China"
+  },
+  {
+    "code": "LX",
+    "country": "China"
+  },
+  {
+    "code": 31,
+    "country": "Mexico"
+  },
+  {
+    "code": 50,
+    "country": "United States"
+  },
+  {
+    "code": "JT",
+    "country": "Japan"
+  },
+  {
+    "code": 10,
+    "country": "United States"
+  },
+  {
+    "code": "L7",
+    "country": "China"
+  },
+  {
+    "code": "4Z",
+    "country": "United States"
+  },
+  {
+    "code": "TW",
+    "country": "Portugal"
+  },
+  {
+    "code": "4L",
+    "country": "United States"
+  },
+  {
+    "code": "MB",
+    "country": "India"
+  },
+  {
+    "code": "JF",
+    "country": "Japan"
+  },
+  {
+    "code": "KN",
+    "country": "South Korea"
+  },
+  {
+    "code": "6F",
+    "country": "Australia"
+  },
+  {
+    "code": "PN",
+    "country": "Malaysia"
+  },
+  {
+    "code": "JM",
+    "country": "Japan"
+  },
+  {
+    "code": "XT",
+    "country": "USSR"
+  },
+  {
+    "code": "TB",
+    "country": "Switzerland"
+  },
+  {
+    "code": "J7",
+    "country": "Japan"
+  },
+  {
+    "code": "5U",
+    "country": "United States"
+  },
+  {
+    "code": "PB",
+    "country": "Philippines"
+  },
+  {
+    "code": 19,
+    "country": "United States"
+  },
+  {
+    "code": "JL",
+    "country": "Japan"
+  },
+  {
+    "code": "2D",
+    "country": "Canada"
+  },
+  {
+    "code": "1W",
+    "country": "United States"
+  },
+  {
+    "code": "AG",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "5T",
+    "country": "United States"
+  },
+  {
+    "code": "3A",
+    "country": "Mexico"
+  },
+  {
+    "code": "L3",
+    "country": "China"
+  },
+  {
+    "code": "TJ",
+    "country": "Czech Republic"
+  },
+  {
+    "code": "MN",
+    "country": "Thailand"
+  },
+  {
+    "code": "KM",
+    "country": "South Korea"
+  },
+  {
+    "code": "5H",
+    "country": "United States"
+  },
+  {
+    "code": "X3",
+    "country": "Russia"
+  },
+  {
+    "code": "4M",
+    "country": "United States"
+  },
+  {
+    "code": "JY",
+    "country": "Japan"
+  },
+  {
+    "code": "2H",
+    "country": "Canada"
+  },
+  {
+    "code": "WG",
+    "country": "Germany"
+  },
+  {
+    "code": "L8",
+    "country": "China"
+  },
+  {
+    "code": 39,
+    "country": "Mexico"
+  },
+  {
+    "code": "JC",
+    "country": "Japan"
+  },
+  {
+    "code": "1Y",
+    "country": "United States"
+  },
+  {
+    "code": "TR",
+    "country": "Hungary"
+  },
+  {
+    "code": "WC",
+    "country": "Germany"
+  },
+  {
+    "code": "5A",
+    "country": "United States"
+  },
+  {
+    "code": "VW",
+    "country": "Spain"
+  },
+  {
+    "code": "ZA",
+    "country": "Italy"
+  },
+  {
+    "code": "JJ",
+    "country": "Japan"
+  },
+  {
+    "code": "3B",
+    "country": "Mexico"
+  },
+  {
+    "code": "9E",
+    "country": "Brazil"
+  },
+  {
+    "code": "1C",
+    "country": "United States"
+  },
+  {
+    "code": "JD",
+    "country": "Japan"
+  },
+  {
+    "code": "3Y",
+    "country": "Mexico"
+  },
+  {
+    "code": "JS",
+    "country": "Japan"
+  },
+  {
+    "code": "J0",
+    "country": "Japan"
+  },
+  {
+    "code": 34,
+    "country": "Mexico"
+  },
+  {
+    "code": "SN",
+    "country": "Germany"
+  },
+  {
+    "code": "5N",
+    "country": "United States"
+  },
+  {
+    "code": "4K",
+    "country": "United States"
+  },
+  {
+    "code": "WP",
+    "country": "Germany"
+  },
+  {
+    "code": "1D",
+    "country": "United States"
+  },
+  {
+    "code": "9H",
+    "country": "Colombia"
+  },
+  {
+    "code": "4F",
+    "country": "United States"
+  },
+  {
+    "code": "ZB",
+    "country": "Italy"
+  },
+  {
+    "code": "8Z",
+    "country": "Venezuela"
+  },
+  {
+    "code": "4C",
+    "country": "United States"
+  },
+  {
+    "code": "VB",
+    "country": "Austria"
+  },
+  {
+    "code": "W9",
+    "country": "Germany"
+  },
+  {
+    "code": "JG",
+    "country": "Japan"
+  },
+  {
+    "code": "1R",
+    "country": "United States"
+  },
+  {
+    "code": "2R",
+    "country": "Canada"
+  },
+  {
+    "code": "2U",
+    "country": "Canada"
+  },
+  {
+    "code": "PE",
+    "country": "Philippines"
+  },
+  {
+    "code": "TG",
+    "country": "Switzerland"
+  },
+  {
+    "code": "PD",
+    "country": "Philippines"
+  },
+  {
+    "code": 45,
+    "country": "United States"
+  },
+  {
+    "code": "YW",
+    "country": "Sweden"
+  },
+  {
+    "code": "W1",
+    "country": "Germany"
+  },
+  {
+    "code": "6A",
+    "country": "Australia"
+  },
+  {
+    "code": "W4",
+    "country": "Germany"
+  },
+  {
+    "code": "VX",
+    "country": "Yugoslavia"
+  },
+  {
+    "code": "3X",
+    "country": "Mexico"
+  },
+  {
+    "code": 54,
+    "country": "United States"
+  },
+  {
+    "code": "LL",
+    "country": "China"
+  },
+  {
+    "code": 16,
+    "country": "United States"
+  },
+  {
+    "code": "VK",
+    "country": "France"
+  },
+  {
+    "code": 51,
+    "country": "United States"
+  },
+  {
+    "code": 56,
+    "country": "United States"
+  },
+  {
+    "code": "VT",
+    "country": "Spain"
+  },
+  {
+    "code": "3M",
+    "country": "Mexico"
+  },
+  {
+    "code": "LW",
+    "country": "China"
+  },
+  {
+    "code": "8G",
+    "country": "Chile"
+  },
+  {
+    "code": "5S",
+    "country": "United States"
+  },
+  {
+    "code": "MP",
+    "country": "Thailand"
+  },
+  {
+    "code": "AJ",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "ZP",
+    "country": "Italy"
+  },
+  {
+    "code": "LR",
+    "country": "China"
+  },
+  {
+    "code": "ZE",
+    "country": "Italy"
+  },
+  {
+    "code": "5Z",
+    "country": "United States"
+  },
+  {
+    "code": "5R",
+    "country": "United States"
+  },
+  {
+    "code": "ZF",
+    "country": "Italy"
+  },
+  {
+    "code": "3V",
+    "country": "Mexico"
+  },
+  {
+    "code": "4P",
+    "country": "United States"
+  },
+  {
+    "code": "VA",
+    "country": "Austria"
+  },
+  {
+    "code": "VN",
+    "country": "France"
+  },
+  {
+    "code": "MA",
+    "country": "India"
+  },
+  {
+    "code": "1Z",
+    "country": "United States"
+  },
+  {
+    "code": "YU",
+    "country": "Sweden"
+  },
+  {
+    "code": "WX",
+    "country": "Germany"
+  },
+  {
+    "code": "L2",
+    "country": "China"
+  },
+  {
+    "code": "3R",
+    "country": "Mexico"
+  },
+  {
+    "code": "6M",
+    "country": "Australia"
+  },
+  {
+    "code": 82,
+    "country": "Venezuela"
+  },
+  {
+    "code": 14,
+    "country": "United States"
+  },
+  {
+    "code": "VE",
+    "country": "Austria"
+  },
+  {
+    "code": "4N",
+    "country": "United States"
+  },
+  {
+    "code": 49,
+    "country": "United States"
+  },
+  {
+    "code": "XV",
+    "country": "USSR"
+  },
+  {
+    "code": "2M",
+    "country": "Canada"
+  },
+  {
+    "code": "PR",
+    "country": "Malaysia"
+  },
+  {
+    "code": "KR",
+    "country": "South Korea"
+  },
+  {
+    "code": "X5",
+    "country": "Russia"
+  },
+  {
+    "code": "TT",
+    "country": "Hungary"
+  },
+  {
+    "code": "3N",
+    "country": "Mexico"
+  },
+  {
+    "code": "5M",
+    "country": "United States"
+  },
+  {
+    "code": 58,
+    "country": "United States"
+  },
+  {
+    "code": "X8",
+    "country": "Russia"
+  },
+  {
+    "code": "VY",
+    "country": "Yugoslavia"
+  },
+  {
+    "code": 23,
+    "country": "Canada"
+  },
+  {
+    "code": "ZJ",
+    "country": "Italy"
+  },
+  {
+    "code": 15,
+    "country": "United States"
+  },
+  {
+    "code": "ZM",
+    "country": "Italy"
+  },
+  {
+    "code": 24,
+    "country": "Canada"
+  },
+  {
+    "code": "VS",
+    "country": "Spain"
+  },
+  {
+    "code": "X6",
+    "country": "Russia"
+  },
+  {
+    "code": "SP",
+    "country": "Germany"
+  },
+  {
+    "code": "5E",
+    "country": "United States"
+  },
+  {
+    "code": "6C",
+    "country": "Australia"
+  },
+  {
+    "code": "ZK",
+    "country": "Italy"
+  },
+  {
+    "code": "XN",
+    "country": "The Netherlands"
+  },
+  {
+    "code": "VL",
+    "country": "France"
+  },
+  {
+    "code": "VP",
+    "country": "France"
+  },
+  {
+    "code": "ZN",
+    "country": "Italy"
+  },
+  {
+    "code": "YT",
+    "country": "Sweden"
+  },
+  {
+    "code": "4A",
+    "country": "United States"
+  },
+  {
+    "code": "8X",
+    "country": "Venezuela"
+  },
+  {
+    "code": "9F",
+    "country": "Colombia"
+  },
+  {
+    "code": "2B",
+    "country": "Canada"
+  },
+  {
+    "code": 53,
+    "country": "United States"
+  },
+  {
+    "code": "3P",
+    "country": "Mexico"
+  },
+  {
+    "code": "SW",
+    "country": "Poland"
+  },
+  {
+    "code": 11,
+    "country": "United States"
+  },
+  {
+    "code": "8J",
+    "country": "Chile"
+  },
+  {
+    "code": "SV",
+    "country": "Poland"
+  },
+  {
+    "code": "6N",
+    "country": "Australia"
+  },
+  {
+    "code": "VJ",
+    "country": "France"
+  },
+  {
+    "code": "6S",
+    "country": "Australia"
+  },
+  {
+    "code": "WM",
+    "country": "Germany"
+  },
+  {
+    "code": "1X",
+    "country": "United States"
+  },
+  {
+    "code": "L4",
+    "country": "China"
+  },
+  {
+    "code": 29,
+    "country": "Canada"
+  },
+  {
+    "code": "TS",
+    "country": "Hungary"
+  },
+  {
+    "code": "3L",
+    "country": "Mexico"
+  },
+  {
+    "code": "6G",
+    "country": "Australia"
+  },
+  {
+    "code": "XU",
+    "country": "USSR"
+  },
+  {
+    "code": "3G",
+    "country": "Mexico"
+  },
+  {
+    "code": "X9",
+    "country": "Russia"
+  },
+  {
+    "code": "TD",
+    "country": "Switzerland"
+  }
+]
