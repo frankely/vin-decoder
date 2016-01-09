@@ -19,8 +19,8 @@ var split = function(vin) {
   var INDEXES = {
     MADE_IN_START: 0,
     MADE_IN_END: 2,
-    MANUFACTER_START: 1,
-    MANUFACTER_END: 3,
+    MANUFACTURER_START: 1,
+    MANUFACTURER_END: 3,
     DETAILS_START: 3,
     DETAILS_END: 8,
     SECURITY_CODE: 8,
@@ -31,7 +31,7 @@ var split = function(vin) {
 
   var rawInfo = {
     madeIn: vin.substring(INDEXES.MADE_IN_START,INDEXES.MADE_IN_END),
-    manufacter: vin.substring(INDEXES.MANUFACTER_START,INDEXES.MANUFACTER_END),
+    manufacturer: vin.substring(INDEXES.MANUFACTURER_START,INDEXES.MANUFACTURER_END),
     details: vin.substring(INDEXES.DETAILS_START,INDEXES.DETAILS_END),
     securityCode: vin.charAt(INDEXES.SECURITY_CODE),
     year: vin.charAt(INDEXES.YEAR),

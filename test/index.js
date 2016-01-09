@@ -36,8 +36,8 @@ describe('#split',function(){
     split('1NXBR32E77Z923602').madeIn.should.equal('1N');
   });
 
-  it('split the vehicle manufacter code',function(){
-    split('1NXBR32E77Z923602').manufacter.should.equal('NX');
+  it('split the vehicle manufacturer code',function(){
+    split('1NXBR32E77Z923602').manufacturer.should.equal('NX');
   });
 
   it('split the vehicle details code',function(){

@@ -1,4 +1,4 @@
-# Vehicle Idenfitication Number Decoder
+# Vehicle Identification Number Decoder
 VIN Decoder
 
 ## API
@@ -15,10 +15,23 @@ Pending:
 
 ### Split Identification Number
 
-You can get every code from the VIN separate
+Done:
 
-* Done
+* You can get every code from the VIN separate
+
+
 
 ### Decode Identification Number
 
-You can get the vehicle country of origin
+Done:
+
+* You can get the vehicle country of origin
+
+Pending:
+
+* Get manufacturer
+* Get details
+* Get security code
+* Get assembly plant
+* Get year
+* Get serial number
