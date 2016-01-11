@@ -1,3 +1,5 @@
+![Travis Build](https://travis-ci.org/frankelydiaz/vin-decoder.svg?branch=master)
+
 # Vehicle Identification Number Decoder
 VIN Decoder
 
