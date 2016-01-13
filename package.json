@@ -1,8 +1,9 @@
 {
   "name": "vin-decoder",
-  "version": "1.0.1",
+  "version": "1.0.21",
   "description": "Vehicle Identification Number Decoder",
   "main": "index.js",
+  "files": ["data/*"],
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha",
     "autotest": "supervisor -q -n exit -x mocha -- -b"

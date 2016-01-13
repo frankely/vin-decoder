@@ -1,3 +1,5 @@
+![Travis Build](https://travis-ci.org/frankelydiaz/vin-decoder.svg?branch=master)
+
 # Vehicle Identification Number Decoder
 VIN Decoder
 
@@ -17,7 +19,7 @@ Pending:
 
 Done:
 
-* You can get every code from the VIN separate
+* Get every code from the VIN separate
 
 
 
@@ -25,7 +27,7 @@ Done:
 
 Done:
 
-* You can get the vehicle country of origin
+* Get the vehicle country of origin
 
 Pending:
 
