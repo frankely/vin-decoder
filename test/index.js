@@ -37,7 +37,7 @@ describe('#split',function(){
   });
 
   it('split the vehicle manufacturer code',function(){
-    split('1NXBR32E77Z923602').manufacturer.should.equal('NX');
+    split('1NXBR32E77Z923602').manufacturer.should.equal('1NX');
   });
 
   it('split the vehicle details code',function(){
@@ -52,5 +52,13 @@ describe('#split',function(){
 describe('#decode', function(){
   it('decode the vehicle country of origin', function(){
     decode('1NXBR32E77Z923602').country.should.equal('United States');
+  });
+
+  it('decode the vehicle serial number',function(){
+    decode('1NXBR32E77Z923602').serialNumber.should.equal('923602');
+  });
+
+  it('decode the vehicle manufacturer',function(){
+    decode('1NXBR32E77Z923602').manufacturer.should.equal('NUMMI USA');
   });
 });

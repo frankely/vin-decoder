@@ -2,7 +2,7 @@ var fs = require('fs');
 var path = require('path');
 
 var countries = JSON.parse(fs.readFileSync(path.join('data','countries.json'), "utf8"));
-var manufacters = JSON.parse(fs.readFileSync(path.join('data','manufacters.json'), "utf8"));
+var manufacturers = JSON.parse(fs.readFileSync(path.join('data','manufacters.json'), "utf8"));
 
 
 var validate = function (vin) {
@@ -19,7 +19,7 @@ var split = function(vin) {
   var INDEXES = {
     MADE_IN_START: 0,
     MADE_IN_END: 2,
-    MANUFACTURER_START: 1,
+    MANUFACTURER_START: 0,
     MANUFACTURER_END: 3,
     DETAILS_START: 3,
     DETAILS_END: 8,
@@ -59,15 +59,19 @@ var getCountry = function(countryCode) {
   return country.name;
 };
 
+var getManufacturer = function(manufacturerCode) {
+  var manufacturer = lookup('code', manufacturerCode, manufacturers);
+  return manufacturer.name;
+};
+
 var decode = function(vin) {
   var codeValues = split(vin);
 
-
   var carInfo = {
-    country: getCountry(codeValues.madeIn)
+    country: getCountry(codeValues.madeIn),
+    serialNumber: codeValues.serialNumber,
+    manufacturer: getManufacturer(codeValues.manufacturer)
   };
-
-
 
   return carInfo;
 };
