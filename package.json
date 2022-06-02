@@ -3,14 +3,16 @@
   "version": "1.0.21",
   "description": "Vehicle Identification Number Decoder",
   "main": "index.js",
-  "files": ["data/*"],
+  "files": [
+    "data/*"
+  ],
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha",
     "autotest": "supervisor -q -n exit -x mocha -- -b"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frankelydiaz/vin-decoder.git"
+    "url": "git+https://github.com/frankely/vin-decoder.git"
   },
   "keywords": [
     "VIN",
@@ -21,12 +23,12 @@
   "author": "Frankely Diaz <diazfrankely@gmail.com> (http://frankelydiaz.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/frankelydiaz/vin-decoder/issues"
+    "url": "https://github.com/frankely/vin-decoder/issues"
   },
-  "homepage": "https://github.com/frankelydiaz/vin-decoder#readme",
+  "homepage": "https://github.com/frankely/vin-decoder#readme",
   "devDependencies": {
     "chai": "^3.4.1",
-    "mocha": "^2.3.4",
+    "mocha": "^10.0.0",
     "supervisor": "^0.9.1"
   }
 }
