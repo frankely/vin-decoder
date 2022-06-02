@@ -7,33 +7,60 @@ VIN Decoder
 
 ### Validate VIN
 
-Done:
-
-* Validate Length
-
-Pending:
-
-* Validate codes formats
+```javascript
+const isValid = validate('1NXBR32E77Z923602') // true
+```
 
 ### Split Identification Number
 
-Done:
+**Year Code**
+```javascript
+const year = split('1NXBR32E77Z923602').year // 7
+```
 
-* Get every code from the VIN separate
+**Security Code**
+```javascript
+const securityCode = split('1NXBR32E77Z923602').securityCode // 7
+```
 
+**Assembly Plant**
+```javascript
+const assemblyPlant = split('1NXBR32E77Z923602').assemblyPlant // Z
+```
 
+**Made In**
+```javascript
+const madeIn = split('1NXBR32E77Z923602').madeIn // 1N
+```
+
+**Manufacturer**
+```javascript
+const manufacturer = split('1NXBR32E77Z923602').manufacturer // 1NX
+```
+
+**Details**
+```javascript
+const details = split('1NXBR32E77Z923602').details // BR32E
+```
+
+**Serial Number**
+```javascript
+const serialNumber = split('1NXBR32E77Z923602').serialNumber //923602
+```
 
 ### Decode Identification Number
 
-Done:
+**Country**
+```javascript
+const country = decode('1NXBR32E77Z923602').country // United States
+```
 
-* Get the vehicle country of origin
+**Serial Number**
+```javascript
+const serialNumber = decode('1NXBR32E77Z923602').serialNumber // 923602
+```
 
-Pending:
-
-* Get manufacturer
-* Get details
-* Get security code
-* Get assembly plant
-* Get year
-* Get serial number
+**Manufacturer**
+```javascript
+const serialNumber = decode('1NXBR32E77Z923602').manufacturer // NUMMI USA
+```
