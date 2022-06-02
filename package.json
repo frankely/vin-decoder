@@ -1,6 +1,6 @@
 {
   "name": "vin-decoder",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "description": "Vehicle Identification Number Decoder",
   "main": "index.js",
   "files": [
