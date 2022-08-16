@@ -6,11 +6,149 @@ var manufacturers = JSON.parse(fs.readFileSync(path.join('data','manufacters.jso
 
 
 var validate = function (vin) {
-  if (vin.length == 0)
-    return false;
+  let splitVIN = vin.split("");
+  let total = 0;
 
-  if (vin.length != 17)
+  for (let i = 0; i < splitVIN.length; i++) {
+    let numValue = 0;
+    let weight = 0;
+
+    switch(splitVIN[i]) {
+      case "0":
+        numValue = 0;
+        break;
+      case "1":
+      case "a":
+      case "j":
+        numValue = 1;
+        break;
+      case "2":
+      case "b":
+      case "k":
+      case "s":
+        numValue = 2;
+        break;
+      case "3":
+      case "c":
+      case "l":
+      case "t":
+        numValue = 3;
+        break;
+      case "4":
+      case "d":
+      case "m":
+      case "u":
+        numValue = 4;
+        break;
+      case "5":
+      case "e":
+      case "n":
+      case "v":
+        numValue = 5;
+        break;
+      case "6":
+      case "f":
+      case "w":
+        numValue = 6;
+        break;
+      case "7":
+      case "g":
+      case "p":
+      case "x":
+        numValue = 7;
+        break;
+      case "8":
+      case "h":
+      case "y":
+        numValue = 8;
+        break;
+      case "9":
+      case "r":
+      case "z":
+        numValue = 9;
+        break;
+      default:
+        return false;
+    }
+
+    switch (i) {
+      case 0:
+        weight = 8;
+        break;
+      case 1:
+        weight = 7;
+        break;
+      case 2:
+        weight = 6;
+        break;
+      case 3:
+        weight = 5;
+        break;
+      case 4:
+        weight = 4;
+        break;
+      case 5:
+        weight = 3;
+        break;
+      case 6:
+        weight = 2;
+        break;
+      case 7:
+        weight = 10;
+        break;
+      case 8:
+        weight = 0;
+        break;
+      case 9:
+        weight = 9;
+        break;
+      case 10:
+        weight = 8;
+        break;
+      case 11:
+        weight = 7;
+        break;
+      case 12:
+        weight = 6;
+        break;
+      case 13:
+        weight = 5;
+        break;
+      case 14:
+        weight = 4;
+        break;
+      case 15:
+        weight = 3;
+        break;
+      case 16:
+        weight = 2;
+        break;
+      default:
+        return false;
+    }
+    splitVIN.splice(i, 1, numValue * weight);
+  }
+
+  
+  for (let j = 0; j < splitVIN.length; j++) {
+    total += splitVIN[j];
+  }
+
+  const lastFive = vin.split("");
+  lastFive.splice(0, 12);
+  for (let k = 0; k < lastFive.length; k++) {
+    if (!Number.isInteger(parseInt(lastFive[k]))) {
+      return false;
+    }
+  }
+
+  if (total % 11 === parseInt(VIN.split("")[8])) {
+    return true;
+  } else if (total % 11 === 10 && VIN.split("")[8] === "x") {
+    return true;
+  } else {
     return false;
+  }
 
   return true;
 };
