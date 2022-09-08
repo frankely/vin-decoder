@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const countries = JSON.parse(fs.readFileSync(path.join('data','countries.json'), "utf8"));
-const manufacturers = JSON.parse(fs.readFileSync(path.join('data','manufacturers.json'), "utf8"));
+const countries = JSON.parse(fs.readFileSync(path.join(__dirname, 'data','countries.json'), "utf8"));
+const manufacturers = JSON.parse(fs.readFileSync(path.join(__dirname, 'data','manufacturers.json'), "utf8"));
 
 
 const validate =  (vin, checksumParam) => {
