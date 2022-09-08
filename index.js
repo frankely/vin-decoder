@@ -1,12 +1,12 @@
-var fs = require('fs');
-var path = require('path');
+const fs = require('fs');
+const path = require('path');
 
-var countries = JSON.parse(fs.readFileSync(path.join('data','countries.json'), "utf8"));
-var manufacturers = JSON.parse(fs.readFileSync(path.join('data','manufacters.json'), "utf8"));
+const countries = JSON.parse(fs.readFileSync(path.join('data','countries.json'), "utf8"));
+const manufacturers = JSON.parse(fs.readFileSync(path.join('data','manufacturers.json'), "utf8"));
 
 
-var validate = function (vin) {
-  let splitVIN = vin.split("");
+const validate =  (vin) => {
+  let splitVIN = vin.toLowerCase().split("");
   let total = 0;
 
   for (let i = 0; i < splitVIN.length; i++) {
@@ -130,31 +130,29 @@ var validate = function (vin) {
   }
 
   
-  for (let j = 0; j < splitVIN.length; j++) {
-    total += splitVIN[j];
+  for (const element of splitVIN) {
+    total += element;
   }
 
   const lastFive = vin.split("");
   lastFive.splice(0, 12);
-  for (let k = 0; k < lastFive.length; k++) {
-    if (!Number.isInteger(parseInt(lastFive[k]))) {
+  for (const element of lastFive) {
+    if (!Number.isInteger(parseInt(element))) {
       return false;
     }
   }
 
-  if (total % 11 === parseInt(VIN.split("")[8])) {
+  if (total % 11 === parseInt(vin.split("")[8])) {
     return true;
-  } else if (total % 11 === 10 && VIN.split("")[8] === "x") {
+  } else if (total % 11 === 10 && vin.split("")[8] === "x") {
     return true;
   } else {
     return false;
   }
-
-  return true;
 };
 
-var split = function(vin) {
-  var INDEXES = {
+const split = (vin) => {
+  const INDEXES = {
     MADE_IN_START: 0,
     MADE_IN_END: 2,
     MANUFACTURER_START: 0,
@@ -167,7 +165,7 @@ var split = function(vin) {
     SERIAL_NUMBER_START: 11
   };
 
-  var rawInfo = {
+  const rawInfo = {
     madeIn: vin.substring(INDEXES.MADE_IN_START,INDEXES.MADE_IN_END),
     manufacturer: vin.substring(INDEXES.MANUFACTURER_START,INDEXES.MANUFACTURER_END),
     details: vin.substring(INDEXES.DETAILS_START,INDEXES.DETAILS_END),
@@ -181,10 +179,8 @@ var split = function(vin) {
 };
 
 
-var lookup = function(keyName, key, elements) {
-  for (var i = 0; i < elements.length; i++) {
-    var element = elements[i];
-
+const lookup = (keyName, key, elements) => {
+  for (const element of elements) {
     if (element[keyName] == key)
       return element;
   }
@@ -192,20 +188,20 @@ var lookup = function(keyName, key, elements) {
   return '';
 };
 
-var getCountry = function(countryCode) {
-  var country = lookup('code',countryCode, countries);
+const getCountry = (countryCode) => {
+  const country = lookup('code',countryCode, countries);
   return country.name;
 };
 
-var getManufacturer = function(manufacturerCode) {
-  var manufacturer = lookup('code', manufacturerCode, manufacturers);
+const getManufacturer = (manufacturerCode) => {
+  const manufacturer = lookup('code', manufacturerCode, manufacturers);
   return manufacturer.name;
 };
 
-var decode = function(vin) {
-  var codeValues = split(vin);
+const decode = (vin) => {
+  const codeValues = split(vin);
 
-  var carInfo = {
+  const carInfo = {
     country: getCountry(codeValues.madeIn),
     serialNumber: codeValues.serialNumber,
     manufacturer: getManufacturer(codeValues.manufacturer)
