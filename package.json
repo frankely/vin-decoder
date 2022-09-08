@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/frankely/vin-decoder#readme",
   "devDependencies": {
-    "chai": "^3.4.1",
+    "chai": "^4.3.6",
     "mocha": "^10.0.0",
-    "supervisor": "^0.9.1"
+    "supervisor": "^0.12.0"
   }
 }
