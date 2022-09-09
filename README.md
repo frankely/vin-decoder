@@ -1,4 +1,5 @@
-![Travis Build](https://travis-ci.org/frankelydiaz/vin-decoder.svg?branch=master)
+![Build Status](https://github.com/frankely/vin-decoder/actions/workflows/node.js.yml/badge.svg)
+![NPM Status](https://github.com/frankely/vin-decoder/actions/workflows/npm-publish.yml/badge.svg)
 
 # Vehicle Identification Number Decoder
 VIN Decoder
