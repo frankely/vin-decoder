@@ -11,6 +11,7 @@ const validate =  (vin, checksumParam) => {
   //  use 9th character when checksumParam is not set
   const checksum = checksumParam || splitVIN[8]
 
+
   let total = 0;
 
   for (let i = 0; i < splitVIN.length; i++) {
@@ -133,19 +134,21 @@ const validate =  (vin, checksumParam) => {
     splitVIN.splice(i, 1, numValue * weight);
   }
 
+
   for (const element of splitVIN) {
     total += element;
   }
 
   const lastFiveChars = splitVIN.splice(0, 12);
-  
   for (const element of lastFiveChars) {
+
     if (!Number.isInteger(parseInt(element))) {
       return false;
     }
   }
-
+  
   if ((total % 11 === parseInt(checksum) || total % 11 === 10 && checksum === "x") ) {
+
     return true;
   } else {
     return false;

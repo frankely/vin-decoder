@@ -1,7 +1,6 @@
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
+![Build Status](https://github.com/frankely/vin-decoder/actions/workflows/node.js.yml/badge.svg)
+![NPM Status](https://github.com/frankely/vin-decoder/actions/workflows/npm-publish.yml/badge.svg)
 
 # Vehicle Identification Number Decoder
 VIN Decoder
