@@ -59,7 +59,7 @@ describe("#decode", () => {
   });
 
   it("decode the vehicle manufacturer", () => {
-    decode("1NXBR32E77Z923602").manufacturer.should.equal("NUMMI USA");
+    decode("1NXBR32E77Z923602").manufacturer.should.equal("Toyota car made by NUMMI");
   });
 
 
