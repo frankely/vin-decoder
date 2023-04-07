@@ -1,15 +1,15 @@
-const fs = require("fs");
-const path = require("path");
+const fs = require('fs');
+const path = require('path');
 
 const countries = JSON.parse(
-  fs.readFileSync(path.join(__dirname, "data", "countries.json"), "utf8")
+  fs.readFileSync(path.join(__dirname, 'data', 'countries.json'), 'utf8')
 );
 const manufacturers = JSON.parse(
-  fs.readFileSync(path.join(__dirname, "data", "manufacturers.json"), "utf8")
+  fs.readFileSync(path.join(__dirname, 'data', 'manufacturers.json'), 'utf8')
 );
 
 const validate = (vin, checksumParam) => {
-  const splitVIN = vin.toLowerCase().split("");
+  const splitVIN = vin.toLowerCase().split('');
 
   //  use 9th character when checksumParam is not set
   const checksum = checksumParam || splitVIN[8];
@@ -21,57 +21,57 @@ const validate = (vin, checksumParam) => {
     let weight = 0;
 
     switch (splitVIN[i]) {
-      case "0":
+      case '0':
         numValue = 0;
         break;
-      case "1":
-      case "a":
-      case "j":
+      case '1':
+      case 'a':
+      case 'j':
         numValue = 1;
         break;
-      case "2":
-      case "b":
-      case "k":
-      case "s":
+      case '2':
+      case 'b':
+      case 'k':
+      case 's':
         numValue = 2;
         break;
-      case "3":
-      case "c":
-      case "l":
-      case "t":
+      case '3':
+      case 'c':
+      case 'l':
+      case 't':
         numValue = 3;
         break;
-      case "4":
-      case "d":
-      case "m":
-      case "u":
+      case '4':
+      case 'd':
+      case 'm':
+      case 'u':
         numValue = 4;
         break;
-      case "5":
-      case "e":
-      case "n":
-      case "v":
+      case '5':
+      case 'e':
+      case 'n':
+      case 'v':
         numValue = 5;
         break;
-      case "6":
-      case "f":
-      case "w":
+      case '6':
+      case 'f':
+      case 'w':
         numValue = 6;
         break;
-      case "7":
-      case "g":
-      case "p":
-      case "x":
+      case '7':
+      case 'g':
+      case 'p':
+      case 'x':
         numValue = 7;
         break;
-      case "8":
-      case "h":
-      case "y":
+      case '8':
+      case 'h':
+      case 'y':
         numValue = 8;
         break;
-      case "9":
-      case "r":
-      case "z":
+      case '9':
+      case 'r':
+      case 'z':
         numValue = 9;
         break;
       default:
@@ -149,7 +149,7 @@ const validate = (vin, checksumParam) => {
 
   if (
     total % 11 === parseInt(checksum) ||
-    (total % 11 === 10 && checksum === "x")
+    (total % 11 === 10 && checksum === 'x')
   ) {
     return true;
   } else {
@@ -192,11 +192,11 @@ const lookup = (keyName, key, elements) => {
     if (element[keyName] == key) return element;
   }
 
-  return "";
+  return '';
 };
 
 const getVinYear = (vin) => {
-  const letters = "ABCDEFGHJKLMNPRSTVWXY123456789";
+  const letters = 'ABCDEFGHJKLMNPRSTVWXY123456789';
   const yearStr = vin[10];
 
   const currentYear = new Date().getFullYear();
@@ -227,12 +227,12 @@ const getVinYear = (vin) => {
 };
 
 const getCountry = (countryCode) => {
-  const country = lookup("code", countryCode, countries);
+  const country = lookup('code', countryCode, countries);
   return country.name;
 };
 
 const getManufacturer = (manufacturerCode) => {
-  const manufacturer = lookup("code", manufacturerCode, manufacturers);
+  const manufacturer = lookup('code', manufacturerCode, manufacturers);
   return manufacturer.name;
 };
 
