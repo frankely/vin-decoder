@@ -16,6 +16,9 @@ const validate = (vin, checksumParam) => {
 
   let total = 0;
 
+  if(vin.length !== 17){
+    return false;
+  }
   for (let i = 0; i < splitVIN.length; i++) {
     let numValue = 0;
     let weight = 0;
@@ -146,10 +149,9 @@ const validate = (vin, checksumParam) => {
       return false;
     }
   }
-
   if (
     total % 11 === parseInt(checksum) ||
-    (total % 11 === 10 && checksum === 'x' || checksum === 'eu' || checksum === 'world')
+    (total % 11 === 10 && checksum === 'x' || (checksum === 'eu')|| (checksum === 'world'))
   ) {
     return true;
   } else {
