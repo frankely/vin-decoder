@@ -149,7 +149,7 @@ const validate = (vin, checksumParam) => {
 
   if (
     total % 11 === parseInt(checksum) ||
-    (total % 11 === 10 && checksum === 'x')
+    (total % 11 === 10 && checksum === 'x' || checksum === 'eu' || checksum === 'world')
   ) {
     return true;
   } else {
