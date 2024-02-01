@@ -13,9 +13,14 @@ describe('#validate', () => {
     validate('1NXBR32E77Z92360').should.equal(false);
   });
 
+  it('EU VINs do not have check sum', () => {
+    validate('YV1MC5851CJ126651','eu').should.equal(true);
+  });
+
   it('validate the length to be 17', () => {
     validate('1NXBR32E77Z923602').should.equal(true);
   });
+
 });
 
 describe('#split', () => {
